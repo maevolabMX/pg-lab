@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "maevolabMX"
+  title: "pg-lab"
   favicon: favicon.png
-  repo-url: https://github.com/luisdva/maevolabMX
-  site-url: https://luisdva.github.io/maevolabMX
+  repo-url: https://github.com/luisdva/pg-lab
+  site-url: https://luisdva.github.io/pg-lab
 format:
   html:
     theme:
@@ -32,7 +32,7 @@ babelquarto:
     text: "Español"
   mainlanguage: 'es'
   languages: ['en']
-title-en: "maevolabMX"
+title-en: "pg-lab"
 description-en: description in en
 author-en: author in en
 lang: es
