@@ -1,0 +1,33 @@
+---
+title: "Luis D. Verde Arregoitia"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/luis.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:luisd@ciencias.unam.mx)  
+[luisdva.github.io](https://luisdva.github.io/)
+:::
+:::
+
+::: {.profile-right}
+**Técnico Titular A, SNI I**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Mamíferos]{.profile-tag} [Ecomorfología]{.profile-tag} [Macroecología]{.profile-tag} [Programación en R]{.profile-tag} [Ciencia de datos]{.profile-tag}
+
+Mastozoólogo y científico de la conservación. Creció en la Ciudad de México, donde estudió Biología en la UNAM antes de obtener su doctorado en la Universidad de Queensland, Australia. Ha realizado estancias de investigación en Suiza y Chile, y su trabajo actual se centra en la ecología y evolución de mamíferos pequeños. También disfruta enseñar y aplicar técnicas de análisis de datos en R.
+
+### Educación
+
+- **Doctorado** — University of Queensland, Australia (2014)
+- **Licenciatura** — Universidad Nacional Autónoma de México (2009)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

@@ -1,0 +1,32 @@
+---
+title: "Monserrat Juárez"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/monse.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:monserrat.juarez@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**MSc Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Carnivores]{.profile-tag} [Anthropogenic impact]{.profile-tag} [Macroecology]{.profile-tag}
+
+I am a biologist from the Universidad Autónoma de Tlaxcala, where I studied the diversity of medium and large mammals in different land uses between the Iztaccíhuatl-Popocatépetl and La Malinche National Parks. My MSc research at INECOL focuses on evaluating the spatial patterns of different dimensions of carnivore diversity and understanding how environmental and anthropogenic factors shape these patterns.
+
+### Education
+
+- **MSc** — Instituto de Ecología, A.C. (ongoing)
+- **BSc** — Universidad Autónoma de Tlaxcala (2022)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

@@ -1,0 +1,32 @@
+---
+title: "Citlalli Edith Esparza Estrada"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/citlalli.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:citlalli.edith@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Alumni de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Herpetología]{.profile-tag} [Víboras]{.profile-tag} [Biogeografía]{.profile-tag} [Macroecología]{.profile-tag}
+
+Bióloga (UAZ, 2014) y maestra en Biodiversidad y Conservación (UAEH, 2017). Su trabajo de doctorado en el INECOL se enfocó en comprender los patrones macroecológicos y macroevolutivos de la distribución de víboras. En su tiempo libre disfruta hacer ejercicio, ver películas y buscar víboras.
+
+### Educación
+
+- **Maestría** — UAEH (2017)
+- **Licenciatura** — Universidad Autónoma de Zacatecas (2014)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

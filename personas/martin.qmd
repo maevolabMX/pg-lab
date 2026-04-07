@@ -1,0 +1,32 @@
+---
+title: "Martin Cabrera"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/martin.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:martin.cabrera@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Mamíferos]{.profile-tag} [Murciélagos]{.profile-tag} [Ecomorfología]{.profile-tag} [Macroecología]{.profile-tag} [Macroevolución]{.profile-tag}
+
+Profundamente interesado en la biología de los mamíferos, en particular los murciélagos. En su licenciatura y maestría describió la comunidad de mamíferos de Tetela de Ocampo, Puebla, y exploró la genética de poblaciones de *Sturnira parvidens* a lo largo de todo su rango geográfico. En su doctorado describe y analiza el modo de evolución y las tasas de cambio de la morfología alar y la señal acústica en murciélagos a escala global.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Universidad Nacional Autónoma de México (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

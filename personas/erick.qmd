@@ -1,0 +1,31 @@
+---
+title: "Erick J. Corro"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/erick.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:erick.corro@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Doctor en Ciencias (2022)**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Interacciones bióticas]{.profile-tag} [Estadística]{.profile-tag} [Patrones espaciales]{.profile-tag}
+
+Biólogo egresado de la Benemérita Universidad Autónoma de Puebla, maestro y Doctor en Ciencias por el Instituto de Ecología A.C. Actualmente es profesor de la Universidad Veracruzana, campus Córdoba. Sus intereses académicos involucran el estudio de las interacciones ecológicas (tanto mutualismos como antagonismos) entre plantas y animales, utilizando redes de interacción, ecología del paisaje y macroecología.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (2022)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

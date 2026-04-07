@@ -1,0 +1,32 @@
+---
+title: "Daniel Valencia"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/daniel.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Freshwater fishes]{.profile-tag} [Geographic ranges]{.profile-tag} [Macroecology]{.profile-tag}
+
+I am a biologist from the University of Antioquia, where I also completed my master's degree. My academic path has focused on freshwater fishes, starting with community ecology in the northern Andes and later species distribution and conservation of aquatic systems. I am now a PhD student at INECOL, studying large-scale patterns of species distribution and richness using a macroecological approach, with a focus on Neotropical freshwater fishes.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Universidad de Antioquia, Colombia (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

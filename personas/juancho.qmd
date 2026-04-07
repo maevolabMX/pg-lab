@@ -1,0 +1,31 @@
+---
+title: "Juan D. Carvajal-Quintero"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/juancho.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:juanchocarvajal@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**Doctor en Ciencias (2020)**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Sistemas de agua dulce]{.profile-tag} [Peces]{.profile-tag} [Macroecología]{.profile-tag}
+
+Biólogo de la Universidad de Antioquia (Colombia), donde comenzó su trabajo con peces de agua dulce. Obtuvo su doctorado por el INECOL y la Université Paul Sabatier (Francia). Actualmente es investigador posdoctoral en el centro de síntesis iDiv (sDiv) en Alemania. Su tesis doctoral abordó los determinantes del tamaño del rango geográfico en peces de agua dulce, integrando ecología, evolución y conservación.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. / Université Paul Sabatier (2020)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

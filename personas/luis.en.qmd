@@ -1,0 +1,33 @@
+---
+title: "Luis D. Verde Arregoitia"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/luis.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:luisd@ciencias.unam.mx)  
+[luisdva.github.io](https://luisdva.github.io/)
+:::
+:::
+
+::: {.profile-right}
+**Assistant Researcher (Técnico Titular A), SNI I**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Mammals]{.profile-tag} [Ecomorphology]{.profile-tag} [Macroecology]{.profile-tag} [R programming]{.profile-tag} [Data Science]{.profile-tag}
+
+I am a mammalogist and conservation scientist. I grew up in Mexico City, where I studied Biology at Universidad Nacional Autónoma de México before earning a PhD at the University of Queensland, Australia. I have held research fellowships in Switzerland and Chile, and my current focus is on the ecology and evolution of small mammals. Additionally, I enjoy teaching and applying data cleaning, analysis, and visualization in R.
+
+### Education
+
+- **PhD** — University of Queensland, Australia (2014)
+- **BSc** — Universidad Nacional Autónoma de México (2009)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

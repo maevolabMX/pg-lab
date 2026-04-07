@@ -1,0 +1,32 @@
+---
+title: "Kevin Lopez Reyes"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/kevin.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:lopezreyes.ka@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Facultad de Ciencias, UNAM (Yucatán)
+
+*Interests:* [Herpetology]{.profile-tag} [Ecological niche / Species distributions]{.profile-tag} [Species richness gradients]{.profile-tag}
+
+I am a graduated biologist from the Universidad Autónoma de Yucatán (UADY) with a Master's degree from the Faculty of Sciences at UNAM. In previous studies I worked with ecological niche models to predict areas of ophidism risk in the Yucatan Peninsula. My current research focuses on understanding the evolutionary, ecological and geographical causes for the species richness patterns of Spiny Lizards (genus *Sceloporus*).
+
+### Education
+
+- **PhD** — Facultad de Ciencias, UNAM (ongoing)
+- **MSc** — Facultad de Ciencias, UNAM (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

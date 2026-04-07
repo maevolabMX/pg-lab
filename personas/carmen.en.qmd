@@ -1,0 +1,31 @@
+---
+title: "Carmen Galán Acedo"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/carmen.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:cgalanac@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**Visiting Researcher**  
+UNAM-Morelia
+
+*Interests:* [Landscape ecology]{.profile-tag} [Primatology]{.profile-tag} [Spatial patterns]{.profile-tag}
+
+I obtained my PhD in Biological Sciences from UNAM in 2019. My main research experience has focused on tropical landscape ecology, with a strong conservation biology component. My main objective is to contribute to a better understanding of the effects of land-use change on biodiversity, particularly evaluating its effects on primates at regional and global scales.
+
+### Education
+
+- **PhD** — Universidad Nacional Autónoma de México, UNAM-Morelia (2019)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

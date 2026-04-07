@@ -131,23 +131,29 @@ Redes ecológicas y su variación a través de gradientes geográficos y climát
 
 <div class="team-preview-grid">
   <div class="team-preview-label">Investigadores Principales</div>
-  <div class="team-preview-card"><img src="images/equipo/fabro.png" class="team-preview-photo" alt="Fabricio Villalobos"/><span class="team-preview-name">Fabricio Villalobos</span></div>
-  <div class="team-preview-card"><img src="images/equipo/luis.jpg" class="team-preview-photo" alt="Luis D. Verde Arregoitia"/><span class="team-preview-name">Luis D. Verde Arregoitia</span></div>
+  <div class="team-preview-row">
+  <a href="personas/fabro.html" class="team-preview-card"><img src="images/equipo/fabro.png" class="team-preview-photo" alt="Fabricio Villalobos"/><span class="team-preview-name">Fabricio Villalobos</span></a>
+  <a href="personas/luis.html" class="team-preview-card"><img src="images/equipo/luis.jpg" class="team-preview-photo" alt="Luis D. Verde Arregoitia"/><span class="team-preview-name">Luis D. Verde Arregoitia</span></a>
+  </div>
   <div class="team-preview-label">Investigadores</div>
-  <div class="team-preview-card"><img src="images/equipo/gabriel.jpeg" class="team-preview-photo" alt="Gabriel Moulatlet"/><span class="team-preview-name">Gabriel Moulatlet</span></div>
-  <div class="team-preview-card"><img src="images/equipo/carmen.png" class="team-preview-photo" alt="Carmen Galán Acedo"/><span class="team-preview-name">Carmen Galán Acedo</span></div>
-  <div class="team-preview-card"><img src="images/equipo/jessica.jpg" class="team-preview-photo" alt="Jessica Falcão"/><span class="team-preview-name">Jessica Falcão</span></div>
+  <div class="team-preview-row">
+  <a href="personas/gabriel.html" class="team-preview-card"><img src="images/equipo/gabriel.jpeg" class="team-preview-photo" alt="Gabriel Moulatlet"/><span class="team-preview-name">Gabriel Moulatlet</span></a>
+  <a href="personas/carmen.html" class="team-preview-card"><img src="images/equipo/carmen.png" class="team-preview-photo" alt="Carmen Galán Acedo"/><span class="team-preview-name">Carmen Galán Acedo</span></a>
+  <a href="personas/jessica.html" class="team-preview-card"><img src="images/equipo/jessica.jpg" class="team-preview-photo" alt="Jessica Falcão"/><span class="team-preview-name">Jessica Falcão</span></a>
+  </div>
   <div class="team-preview-label">Estudiantes de Posgrado</div>
-  <div class="team-preview-card"><img src="images/equipo/alex.png" class="team-preview-photo" alt="Alejandro Sánchez"/><span class="team-preview-name">Alejandro Sánchez</span></div>
-  <div class="team-preview-card"><img src="images/equipo/carlos.jpg" class="team-preview-photo" alt="Carlos Marín"/><span class="team-preview-name">Carlos Marín</span></div>
-  <div class="team-preview-card"><img src="images/equipo/daniel.jpg" class="team-preview-photo" alt="Daniel Valencia"/><span class="team-preview-name">Daniel Valencia</span></div>
-  <div class="team-preview-card"><img src="images/equipo/diana.jpeg" class="team-preview-photo" alt="Diana M. Ochoa-Sanz"/><span class="team-preview-name">Diana M. Ochoa-Sanz</span></div>
-  <div class="team-preview-card"><img src="images/equipo/gerardo.jpg" class="team-preview-photo" alt="Gerardo Dirzo"/><span class="team-preview-name">Gerardo Dirzo</span></div>
-  <div class="team-preview-card"><img src="images/equipo/juliana.jpeg" class="team-preview-photo" alt="Juliana Herrera"/><span class="team-preview-name">Juliana Herrera</span></div>
-  <div class="team-preview-card"><img src="images/equipo/kevin.jpg" class="team-preview-photo" alt="Kevin López Reyes"/><span class="team-preview-name">Kevin López Reyes</span></div>
-  <div class="team-preview-card"><img src="images/equipo/martin.jpg" class="team-preview-photo" alt="Martin Cabrera"/><span class="team-preview-name">Martin Cabrera</span></div>
-  <div class="team-preview-card"><img src="images/equipo/roberto.jpg" class="team-preview-photo" alt="Roberto Ruiz"/><span class="team-preview-name">Roberto Ruiz</span></div>
-  <div class="team-preview-card"><img src="images/equipo/monse.jpg" class="team-preview-photo" alt="Monserrat Juárez"/><span class="team-preview-name">Monserrat Juárez</span></div>
+  <div class="team-preview-row">
+  <a href="personas/alex.html" class="team-preview-card"><img src="images/equipo/alex.png" class="team-preview-photo" alt="Alejandro Sánchez"/><span class="team-preview-name">Alejandro Sánchez</span></a>
+  <a href="personas/carlos.html" class="team-preview-card"><img src="images/equipo/carlos.jpg" class="team-preview-photo" alt="Carlos Marín"/><span class="team-preview-name">Carlos Marín</span></a>
+  <a href="personas/daniel.html" class="team-preview-card"><img src="images/equipo/daniel.jpg" class="team-preview-photo" alt="Daniel Valencia"/><span class="team-preview-name">Daniel Valencia</span></a>
+  <a href="personas/diana.html" class="team-preview-card"><img src="images/equipo/diana.jpeg" class="team-preview-photo" alt="Diana M. Ochoa-Sanz"/><span class="team-preview-name">Diana M. Ochoa-Sanz</span></a>
+  <a href="personas/gerardo.html" class="team-preview-card"><img src="images/equipo/gerardo.jpg" class="team-preview-photo" alt="Gerardo Dirzo"/><span class="team-preview-name">Gerardo Dirzo</span></a>
+  <a href="personas/juliana.html" class="team-preview-card"><img src="images/equipo/juliana.jpeg" class="team-preview-photo" alt="Juliana Herrera"/><span class="team-preview-name">Juliana Herrera</span></a>
+  <a href="personas/kevin.html" class="team-preview-card"><img src="images/equipo/kevin.jpg" class="team-preview-photo" alt="Kevin López Reyes"/><span class="team-preview-name">Kevin López Reyes</span></a>
+  <a href="personas/martin.html" class="team-preview-card"><img src="images/equipo/martin.jpg" class="team-preview-photo" alt="Martin Cabrera"/><span class="team-preview-name">Martin Cabrera</span></a>
+  <a href="personas/roberto.html" class="team-preview-card"><img src="images/equipo/roberto.jpg" class="team-preview-photo" alt="Roberto Ruiz"/><span class="team-preview-name">Roberto Ruiz</span></a>
+  <a href="personas/monse.html" class="team-preview-card"><img src="images/equipo/monse.jpg" class="team-preview-photo" alt="Monserrat Juárez"/><span class="team-preview-name">Monserrat Juárez</span></a>
+  </div>
 </div>
 
 [Ver equipo completo →](equipo.qmd){.btn .btn-outline-light .mt-2}

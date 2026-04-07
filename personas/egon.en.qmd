@@ -1,0 +1,33 @@
+---
+title: "Egon Luis Vilela do Valle"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/egon.jpg){.profile-photo-large}
+
+::: {.profile-links}
+
+:::
+:::
+
+::: {.profile-right}
+**PhD Alumni**  
+Universidade Federal de Goiás, Brasil
+
+*Interests:* [Macroecology]{.profile-tag} [Evolution]{.profile-tag} [Bats]{.profile-tag} [Bioacoustics]{.profile-tag}
+
+I am a biologist with a M.Sc. degree from Universidade Federal de Uberlândia (UFU), Brazil. My PhD research focused on the role of evolution on geographic range size, climatic niche, and dispersion ability within species of the Chiroptera order. I am also interested in Chiroptera flight and bioacoustics evolution, as well as taxonomy and taxidermy.
+
+### Education
+
+- **PhD** — Universidade Federal de Goiás, Brasil (2023)
+- **MSc** — Universidade Federal de Uberlândia, Brasil (2019)
+- **BSc** — Universidade Federal Rural do Rio de Janeiro, Brasil (2017)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

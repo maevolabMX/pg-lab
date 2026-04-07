@@ -1,0 +1,32 @@
+---
+title: "Martin Cabrera"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/martin.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:martin.cabrera@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Mammals]{.profile-tag} [Bats]{.profile-tag} [Ecomorphology]{.profile-tag} [Macroecology]{.profile-tag} [Macroevolution]{.profile-tag}
+
+I am very interested in the biology of mammals, particularly bats. In my Bachelor's and Master's studies I described the mammal community of Tetela de Ocampo, Puebla, and explored the population genetics of *Sturnira parvidens* throughout its entire geographical range. In my PhD, I describe and analyze the mode of evolution and rates of change of wing morphology and acoustic signals in bats at a global scale, and their impact on macroecological patterns.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Universidad Nacional Autónoma de México (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

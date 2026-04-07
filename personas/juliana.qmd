@@ -1,0 +1,32 @@
+---
+title: "Juliana Herrera Pérez"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/juliana.jpeg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Ictiología]{.profile-tag} [Macroecología]{.profile-tag} [Macroevolución]{.profile-tag}
+
+Bióloga de la Universidad de Antioquia, donde también realizó su maestría. En los últimos años ha trabajado con ecosistemas acuáticos del norte de los Andes, desde ecología de comunidades de peces hasta genética de poblaciones y filogeografía. Como estudiante de doctorado en el INECOL, estudia cómo los rasgos morfológicos y ecológicos de peces de agua dulce han influido en su diversificación a escala global.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Universidad de Antioquia, Colombia (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

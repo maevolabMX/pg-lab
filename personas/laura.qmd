@@ -1,0 +1,31 @@
+---
+title: "Laura Saldívar Burrola"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/laura.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:laura.saldivar@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Alumni de Maestría**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Mastozoología]{.profile-tag} [Ecología del paisaje]{.profile-tag} [Macroecología]{.profile-tag}
+
+Bióloga graduada de la Universidad Autónoma de Ciudad Juárez. Ha trabajado con la ecología de mamíferos y aves en zonas áridas y forestales del norte de México. Su investigación de maestría en el INECOL se orientó a comprender cómo dos especies de primates (familia Atelidae) responden a la pérdida de hábitat en selvas tropicales del sureste de México, evaluando la posible existencia de umbrales de extinción.
+
+### Educación
+
+- **Licenciatura** — Universidad Autónoma de Ciudad Juárez (2016)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

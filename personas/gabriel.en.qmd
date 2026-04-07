@@ -1,0 +1,34 @@
+---
+title: "Gabriel Massaine Moulatlet"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/gabriel.jpeg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:mandprogabriel@gmail.com)  
+[Google Scholar](https://scholar.google.com/citations?user=o4dBz6MAAAAJ)  
+[gamamo.netlify.app](https://gamamo.netlify.app/)
+:::
+:::
+
+::: {.profile-right}
+**Postdoctoral Researcher**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Numerical Ecology]{.profile-tag} [Macroecology]{.profile-tag} [Diversity gradients]{.profile-tag} [Environmental Impact Assessments]{.profile-tag}
+
+I am a biologist with broad interest in several aspects of tropical ecology. Most of my experience has been from studying species diversity in tierra-firme Amazonian forests in Brazil and in the Andes of Ecuador. To understand broad aspects of species distribution, I got interested in remote sensing, biogeography and in the mapping of environmental conditions.
+
+### Education
+
+- **PhD** — University of Turku, Finland (2017)
+- **MSc** — INPA, Manaus, Brasil (2012)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

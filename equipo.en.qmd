@@ -18,6 +18,8 @@ Instituto de Ecología, A.C. (INECOL)
 Interested in all things "macroecological", integrating ecology, biogeography and macroevolution to explain geographic biodiversity patterns.
 
 [✉](mailto:fabricio.villalobos@inecol.mx) · [Google Scholar](https://scholar.google.com/citations?user=9CxnRG4AAAAJ) · [GitHub](https://github.com/fabro)
+
+[View full profile →](personas/fabro.html)
 :::
 
 ::: {.team-card}
@@ -31,6 +33,8 @@ Instituto de Ecología, A.C. (INECOL)
 Mammalogist and conservation scientist specializing in the ecology and evolution of small mammals.
 
 [✉](mailto:luisd@ciencias.unam.mx) · [luisdva.github.io](https://luisdva.github.io/)
+
+[View full profile →](personas/luis.html)
 :::
 
 :::
@@ -52,6 +56,8 @@ Instituto de Ecología, A.C. (INECOL)
 Biologist with broad interest in tropical ecology, with experience in Amazonian forests and the Andes.
 
 [✉](mailto:mandprogabriel@gmail.com) · [gamamo.netlify.app](https://gamamo.netlify.app/)
+
+[View full profile →](personas/gabriel.html)
 :::
 
 ::: {.team-card}
@@ -65,6 +71,8 @@ UNAM-Morelia
 PhD in Biological Sciences from UNAM. Studies the effects of land-use change on biodiversity, particularly primates at regional and global scales.
 
 [✉](mailto:cgalanac@gmail.com)
+
+[View full profile →](personas/carmen.html)
 :::
 
 ::: {.team-card}
@@ -78,6 +86,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies the phylogenetic structure of exotic and native plant assemblages in Mexican montane cloud forests.
 
 [✉](mailto:jecafalcao@gmail.com)
+
+[View full profile →](personas/jessica.html)
 :::
 
 :::
@@ -99,6 +109,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies how the number of potential prey species and body size ranges influence carnivorous mammal species richness.
 
 [✉](mailto:alejandro.sanchez@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/alex.html)
 :::
 
 ::: {.team-card}
@@ -112,6 +124,8 @@ Instituto de Ecología, A.C. (INECOL)
 Evolutionary biologist and herpetologist studying biodiversity gradients, with a focus on Neotropical lizard diversification.
 
 [✉](mailto:carlos.marin@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/carlos.html)
 :::
 
 ::: {.team-card}
@@ -125,6 +139,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies large-scale patterns of species distribution and richness, with a focus on Neotropical freshwater fishes.
 
 [✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/daniel.html)
 :::
 
 ::: {.team-card}
@@ -138,6 +154,8 @@ Instituto de Ecología, A.C. (INECOL)
 Her doctoral research focuses on dietary specialization and its relationship with rarity patterns in phyllostomid bats.
 
 [✉](mailto:diana.ochoa@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/diana.html)
 :::
 
 ::: {.team-card}
@@ -151,6 +169,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies the relationship between Grinnellian and Eltonian niche breadth and richness patterns in phyllostomid bats.
 
 [✉](mailto:gerardo.dirzo@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/gerardo.html)
 :::
 
 ::: {.team-card}
@@ -164,6 +184,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies how morphological and ecological traits of freshwater fish species have influenced their diversification globally.
 
 [✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/juliana.html)
 :::
 
 ::: {.team-card}
@@ -177,6 +199,8 @@ Facultad de Ciencias, UNAM (Yucatán)
 Studies evolutionary, ecological and geographical drivers of species richness in Spiny Lizards (*Sceloporus*).
 
 [✉](mailto:lopezreyes.ka@gmail.com)
+
+[View full profile →](personas/kevin.html)
 :::
 
 ::: {.team-card}
@@ -190,6 +214,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies the mode of evolution and rates of change of wing morphology and acoustic signals in bats at a global scale.
 
 [✉](mailto:martin.cabrera@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/martin.html)
 :::
 
 ::: {.team-card}
@@ -203,6 +229,8 @@ Instituto de Ecología, A.C. (INECOL)
 Studies knowledge gaps in bat functional traits and their effect on macroecological patterns and conservation.
 
 [✉](mailto:roberto.ruiz@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/roberto.html)
 :::
 
 ::: {.team-card}
@@ -216,6 +244,8 @@ Instituto de Ecología, A.C. (INECOL)
 Evaluates spatial patterns of carnivore diversity dimensions and the environmental and anthropogenic factors shaping them.
 
 [✉](mailto:monserrat.juarez@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/monse.html)
 :::
 
 :::
@@ -234,6 +264,8 @@ Evaluates spatial patterns of carnivore diversity dimensions and the environment
 *Interests:* Macroecology · Evolution · Bats · Bioacoustics
 
 Studied the role of evolution in geographic range size, climatic niche, and dispersal ability in the order Chiroptera.
+
+[View full profile →](personas/egon.html)
 :::
 
 ::: {.team-card}
@@ -246,6 +278,8 @@ Studied the role of evolution in geographic range size, climatic niche, and disp
 Currently a postdoctoral researcher at iDiv (Germany). His dissertation addressed drivers of geographic range size in freshwater fishes.
 
 [✉](mailto:juanchocarvajal@gmail.com)
+
+[View full profile →](personas/juancho.html)
 :::
 
 ::: {.team-card}
@@ -258,6 +292,8 @@ Currently a postdoctoral researcher at iDiv (Germany). His dissertation addresse
 Currently a professor at Universidad Veracruzana, Córdoba campus.
 
 [✉](mailto:erick.corro@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/erick.html)
 :::
 
 ::: {.team-card}
@@ -270,6 +306,8 @@ Currently a professor at Universidad Veracruzana, Córdoba campus.
 Studied the effects of dispersal capabilities of New World Emberizoidea families on their diversification rates and patterns.
 
 [✉](mailto:axel.arango@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/axel.html)
 :::
 
 ::: {.team-card}
@@ -282,6 +320,8 @@ Studied the effects of dispersal capabilities of New World Emberizoidea families
 Studied diversity patterns of the family Poeciliidae under a macroecological and macroevolutionary approach.
 
 [✉](mailto:berenice.garcia@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/bere.html)
 :::
 
 ::: {.team-card}
@@ -294,6 +334,8 @@ Studied diversity patterns of the family Poeciliidae under a macroecological and
 Studied macroecological and macroevolutionary patterns of viper distribution.
 
 [✉](mailto:citlalli.edith@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/citlalli.html)
 :::
 
 ::: {.team-card}
@@ -306,6 +348,8 @@ Studied macroecological and macroevolutionary patterns of viper distribution.
 Investigated how two primate species (family Atelidae) respond to deforestation in tropical forests of southeastern Mexico.
 
 [✉](mailto:laura.saldivar@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/laura.html)
 :::
 
 :::

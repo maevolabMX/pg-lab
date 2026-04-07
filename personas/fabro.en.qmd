@@ -1,0 +1,36 @@
+---
+title: "Fabricio Villalobos"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/fabro.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:fabricio.villalobos@inecol.mx)  
+[Google Scholar](https://scholar.google.com/citations?user=9CxnRG4AAAAJ)  
+[GitHub](https://github.com/fabro)  
+[Twitter / X](https://twitter.com/FabroVillalobos)
+:::
+:::
+
+::: {.profile-right}
+**Full Researcher (Investigador Titular C), SNI III**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Macroecology]{.profile-tag} [Biogeography]{.profile-tag} [Macroevolution]{.profile-tag} [Conservation Biology]{.profile-tag}
+
+I am interested in all things "macroecological". Macroecology is a synthetic research program that seeks to understand the emergent, statistical properties of complex ecological systems at broad spatial and temporal scales. I'm particularly interested in macroecological research owing to its integration between ecology, biogeography and macroevolution, while considering processes at different scales, in order to explain geographic biodiversity patterns.
+
+### Education
+
+- **Postdoctoral Research** — Universidade Federal de Goiás, Brasil (2012–2014)
+- **PhD** — Universidad Nacional Autónoma de México (2011)
+- **BSc** — Universidad Nacional Autónoma de México (2006)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

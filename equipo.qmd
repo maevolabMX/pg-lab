@@ -18,6 +18,8 @@ Instituto de Ecología, A.C. (INECOL)
 Interesado en todo lo "macroecológico", con énfasis en integrar la ecología, biogeografía y macroevolución para explicar los patrones geográficos de biodiversidad.
 
 [✉](mailto:fabricio.villalobos@inecol.mx) · [Google Scholar](https://scholar.google.com/citations?user=9CxnRG4AAAAJ) · [GitHub](https://github.com/fabro)
+
+[Ver perfil completo →](personas/fabro.html)
 :::
 
 ::: {.team-card}
@@ -31,6 +33,8 @@ Instituto de Ecología, A.C. (INECOL)
 Mastozóologo y científico de la conservación especializado en la ecología y evolución de mamíferos pequeños.
 
 [✉](mailto:luisd@ciencias.unam.mx) · [luisdva.github.io](https://luisdva.github.io/)
+
+[Ver perfil completo →](personas/luis.html)
 :::
 
 :::
@@ -52,6 +56,8 @@ Instituto de Ecología, A.C. (INECOL)
 Biólogo con amplio interés en ecología tropical, con experiencia en bosques amazónicos y los Andes de Ecuador.
 
 [✉](mailto:mandprogabriel@gmail.com) · [gamamo.netlify.app](https://gamamo.netlify.app/)
+
+[Ver perfil completo →](personas/gabriel.html)
 :::
 
 ::: {.team-card}
@@ -65,6 +71,8 @@ UNAM-Morelia
 Doctora en Ciencias Biológicas por la UNAM. Estudia los efectos del cambio de uso de suelo en la biodiversidad, en particular en primates, a escalas regional y global.
 
 [✉](mailto:cgalanac@gmail.com)
+
+[Ver perfil completo →](personas/carmen.html)
 :::
 
 ::: {.team-card}
@@ -78,6 +86,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia la estructura filogenética de ensamblajes de plantas exóticas y nativas en bosques mesófilos de montaña en México.
 
 [✉](mailto:jecafalcao@gmail.com)
+
+[Ver perfil completo →](personas/jessica.html)
 :::
 
 :::
@@ -99,6 +109,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia cómo el número de especies presa disponibles y el rango de tallas corporales influyen en la riqueza de mamíferos carnívoros.
 
 [✉](mailto:alejandro.sanchez@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/alex.html)
 :::
 
 ::: {.team-card}
@@ -112,6 +124,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia los factores ambientales e históricos que moldean los gradientes de biodiversidad, con enfoque en lagartijas neotropicales.
 
 [✉](mailto:carlos.marin@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/carlos.html)
 :::
 
 ::: {.team-card}
@@ -125,6 +139,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia los patrones de distribución y riqueza de especies a gran escala, con énfasis en peces de agua dulce neotropicales.
 
 [✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/daniel.html)
 :::
 
 ::: {.team-card}
@@ -138,6 +154,8 @@ Instituto de Ecología, A.C. (INECOL)
 Su investigación doctoral se enfoca en las dimensiones de la especialización dietaria y su relación con los patrones de rareza en murciélagos filostómidos.
 
 [✉](mailto:diana.ochoa@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/diana.html)
 :::
 
 ::: {.team-card}
@@ -151,6 +169,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia la relación entre el nicho Grinnelliano y Eltoniano con los patrones de riqueza y distribución geográfica de murciélagos filostómidos.
 
 [✉](mailto:gerardo.dirzo@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/gerardo.html)
 :::
 
 ::: {.team-card}
@@ -164,6 +184,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia cómo los rasgos morfológicos y ecológicos de peces de agua dulce han influido en su diversificación a escala global.
 
 [✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/juliana.html)
 :::
 
 ::: {.team-card}
@@ -177,6 +199,8 @@ Facultad de Ciencias, UNAM (Yucatán)
 Estudia los factores evolutivos, ecológicos y geográficos que determinan los patrones de riqueza de lagartijas espinosas (*Sceloporus*).
 
 [✉](mailto:lopezreyes.ka@gmail.com)
+
+[Ver perfil completo →](personas/kevin.html)
 :::
 
 ::: {.team-card}
@@ -190,6 +214,8 @@ Instituto de Ecología, A.C. (INECOL)
 Describe y analiza el modo de evolución y las tasas de cambio de la morfología alar y la señal acústica en murciélagos a escala global.
 
 [✉](mailto:martin.cabrera@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/martin.html)
 :::
 
 ::: {.team-card}
@@ -203,6 +229,8 @@ Instituto de Ecología, A.C. (INECOL)
 Estudia los vacíos de conocimiento en los rasgos funcionales de murciélagos y su impacto en la macroecología y conservación.
 
 [✉](mailto:roberto.ruiz@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/roberto.html)
 :::
 
 ::: {.team-card}
@@ -216,6 +244,8 @@ Instituto de Ecología, A.C. (INECOL)
 Evalúa los patrones espaciales de diferentes dimensiones de la diversidad de carnívoros y los factores ambientales y antrópicos que los determinan.
 
 [✉](mailto:monserrat.juarez@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/monse.html)
 :::
 
 :::
@@ -234,6 +264,8 @@ Evalúa los patrones espaciales de diferentes dimensiones de la diversidad de ca
 *Intereses:* Macroecología · Evolución · Murciélagos · Bioacústica
 
 Estudió el papel de la evolución en el tamaño del rango geográfico, el nicho climático y la capacidad de dispersión en el orden Chiroptera.
+
+[Ver perfil completo →](personas/egon.html)
 :::
 
 ::: {.team-card}
@@ -246,6 +278,8 @@ Estudió el papel de la evolución en el tamaño del rango geográfico, el nicho
 Actualmente investigador posdoctoral en iDiv (Alemania). Su tesis abordó los determinantes del rango geográfico en peces de agua dulce.
 
 [✉](mailto:juanchocarvajal@gmail.com)
+
+[Ver perfil completo →](personas/juancho.html)
 :::
 
 ::: {.team-card}
@@ -258,6 +292,8 @@ Actualmente investigador posdoctoral en iDiv (Alemania). Su tesis abordó los de
 Actualmente profesor de la Universidad Veracruzana, campus Córdoba.
 
 [✉](mailto:erick.corro@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/erick.html)
 :::
 
 ::: {.team-card}
@@ -270,6 +306,8 @@ Actualmente profesor de la Universidad Veracruzana, campus Córdoba.
 Estudió los efectos de las capacidades de dispersión de las familias Emberizoidea del Nuevo Mundo en sus tasas de diversificación.
 
 [✉](mailto:axel.arango@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/axel.html)
 :::
 
 ::: {.team-card}
@@ -282,6 +320,8 @@ Estudió los efectos de las capacidades de dispersión de las familias Emberizoi
 Estudió los patrones de diversidad de la familia Poeciliidae bajo un enfoque macroecológico y macroevolutivo.
 
 [✉](mailto:berenice.garcia@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/bere.html)
 :::
 
 ::: {.team-card}
@@ -294,6 +334,8 @@ Estudió los patrones de diversidad de la familia Poeciliidae bajo un enfoque ma
 Estudió los patrones macroecológicos y macroevolutivos de la distribución de víboras.
 
 [✉](mailto:citlalli.edith@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/citlalli.html)
 :::
 
 ::: {.team-card}
@@ -306,6 +348,8 @@ Estudió los patrones macroecológicos y macroevolutivos de la distribución de 
 Investigó cómo dos especies de primates (familia Atelidae) responden a la deforestación en selvas tropicales del sureste de México.
 
 [✉](mailto:laura.saldivar@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/laura.html)
 :::
 
 :::

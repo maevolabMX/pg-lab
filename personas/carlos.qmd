@@ -1,0 +1,33 @@
+---
+title: "Carlos Marín"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/carlos.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:carlos.marin@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Lagartijas]{.profile-tag} [Herpetología]{.profile-tag} [Macroevolución]{.profile-tag} [Sistemática de anfibios y reptiles]{.profile-tag}
+
+Biólogo evolucionista y herpetólogo interesado en los factores ambientales e históricos que moldean los gradientes geográficos de biodiversidad, a través de la macroecología y la macroevolución. Actualmente evalúa los correlatos ambientales del endemismo y los gradientes de diversificación en una radiación neotropical de lagartijas.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Universidad de Antioquia, Colombia (2019)
+- **Licenciatura** — Universidad de Antioquia, Colombia (2015)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

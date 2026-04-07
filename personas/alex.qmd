@@ -1,0 +1,32 @@
+---
+title: "Alejandro Sánchez Barradas"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/alex.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:alejandro.sanchez@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Interacciones bióticas]{.profile-tag} [Carnívoros]{.profile-tag} [Macroecología]{.profile-tag}
+
+Estudia cómo el número de especies presa disponibles y el rango de tallas corporales influyen en la riqueza de mamíferos carnívoros, y si la relación talla depredador-presa está relacionada con su co-ocurrencia geográfica y ambiental. También tiene un profundo interés en la ecología trófica de hipercarnívoros (especialmente grandes félidos) y su relación con el nicho ambiental.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Instituto de Ecología, A.C. (2018)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

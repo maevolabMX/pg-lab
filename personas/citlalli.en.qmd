@@ -1,0 +1,32 @@
+---
+title: "Citlalli Edith Esparza Estrada"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/citlalli.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:citlalli.edith@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Alumni**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Herpetology]{.profile-tag} [Snakes]{.profile-tag} [Biogeography]{.profile-tag} [Macroecology]{.profile-tag}
+
+Biologist (UAZ, 2014) and Master in Biodiversity and Conservation (UAEH, 2017). Her PhD work at INECOL focused on understanding the macroecological and macroevolutionary patterns of viper distribution. In her free time, she likes to exercise, watch movies, and search for vipers.
+
+### Education
+
+- **MSc** — UAEH (2017)
+- **BSc** — Universidad Autónoma de Zacatecas (2014)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

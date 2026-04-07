@@ -1,0 +1,31 @@
+---
+title: "Ana Berenice García Andrade"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/bere.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:berenice.garcia@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Alumni**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Ichthyology]{.profile-tag} [Poecilids]{.profile-tag} [Macroecology]{.profile-tag} [Macroevolution]{.profile-tag}
+
+I am a biologist with an M.Sc. degree from Universidad Michoacana de San Nicolás de Hidalgo, Mexico. My previous phylogeographic research tested the effect of climate oscillation and tectovolcanic activity on population structure and genetic diversity in central Mexican freshwater fishes. In my doctorate at INECOL, I studied how diversity is shaped along ecological gradients in the family Poeciliidae under a macroecological and macroevolutionary approach.
+
+### Education
+
+- **MSc** — Universidad Michoacana de San Nicolás de Hidalgo (2018)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

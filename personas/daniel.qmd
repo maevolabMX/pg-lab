@@ -1,0 +1,32 @@
+---
+title: "Daniel Valencia"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/daniel.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Peces de agua dulce]{.profile-tag} [Rangos geográficos]{.profile-tag} [Macroecología]{.profile-tag}
+
+Biólogo de la Universidad de Antioquia, donde también realizó su maestría. Su trayectoria académica se ha centrado en peces de agua dulce, desde estudios de ecología de comunidades en los Andes del norte hasta la distribución de especies y conservación de ecosistemas acuáticos. Actualmente estudia patrones de distribución y riqueza a gran escala con enfoque en peces neotropicales.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Universidad de Antioquia, Colombia (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

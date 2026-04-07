@@ -1,0 +1,31 @@
+---
+title: "Erick J. Corro"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/erick.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:erick.corro@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD (2022)**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Biotic interactions]{.profile-tag} [Statistics]{.profile-tag} [Spatial patterns]{.profile-tag}
+
+Biologist graduated from the Benemérita Universidad Autónoma de Puebla, with a Master's and PhD from Instituto de Ecología A.C. Currently a professor at Universidad Veracruzana, Córdoba campus. His academic interests involve the study of ecological interactions (mutualisms and antagonisms) between plants and animals, using interaction networks, landscape ecology, and macroecology.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (2022)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

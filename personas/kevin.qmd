@@ -1,0 +1,32 @@
+---
+title: "Kevin Lopez Reyes"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/kevin.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:lopezreyes.ka@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Facultad de Ciencias, UNAM (Yucatán)
+
+*Intereses:* [Herpetología]{.profile-tag} [Nicho ecológico]{.profile-tag} [Gradientes de riqueza]{.profile-tag}
+
+Biólogo graduado de la Universidad Autónoma de Yucatán (UADY) con maestría en la Facultad de Ciencias de la UNAM. En sus estudios previos trabajó con modelos de nicho ecológico para predecir áreas de riesgo de ofidismo en la Península de Yucatán. Actualmente evalúa los factores evolutivos, ecológicos y geográficos que determinan los patrones de riqueza de lagartijas espinosas (*Sceloporus*).
+
+### Educación
+
+- **Doctorado** — Facultad de Ciencias, UNAM (en curso)
+- **Maestría** — Facultad de Ciencias, UNAM (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

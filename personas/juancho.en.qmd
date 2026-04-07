@@ -1,0 +1,31 @@
+---
+title: "Juan D. Carvajal-Quintero"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/juancho.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:juanchocarvajal@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**PhD (2020)**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Freshwater systems]{.profile-tag} [Fishes]{.profile-tag} [Macroecology]{.profile-tag}
+
+I obtained my undergraduate degree in Biology from the Universidad de Antioquia (Colombia), where I began studying freshwater fishes. I completed my PhD from INECOL and Université Paul Sabatier (France). I am currently a postdoctoral researcher at the iDiv synthesis center (sDiv) in Germany, integrating ecology, evolution and conservation to better understand freshwater ecosystems. My PhD addressed the drivers of species' geographic range sizes in freshwater fishes.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. / Université Paul Sabatier (2020)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

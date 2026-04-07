@@ -1,0 +1,31 @@
+---
+title: "Axel Arango"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/axel.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:axel.arango@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Alumni**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Biogeography]{.profile-tag} [Birds]{.profile-tag} [Macroevolution]{.profile-tag}
+
+I did my BSc at the Universidad Veracruzana, studying genetic erosion of *Sideroxylum celastrinum* in a perturbed ecosystem in central Veracruz. My MSc at INECOL focused on phylogenetic diversity and structure of New World seasonally dry tropical forest woody species. My PhD research at the Evolutionary Macroecology Lab assessed the effects of dispersal capabilities of New World Emberizoidea families on their diversification rates and patterns.
+
+### Education
+
+- **MSc** — Instituto de Ecología, A.C. (2019)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

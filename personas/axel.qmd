@@ -1,0 +1,31 @@
+---
+title: "Axel Arango"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/axel.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:axel.arango@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Alumni de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Biogeografía]{.profile-tag} [Aves]{.profile-tag} [Macroevolución]{.profile-tag}
+
+Estudió la erosión genética de *Sideroxylum celastrinum* en un ecosistema perturbado del centro de Veracruz (licenciatura, Universidad Veracruzana) y los patrones de diversidad filogenética de los bosques tropicales estacionalmente secos del Nuevo Mundo (maestría, INECOL). Su investigación doctoral en el Laboratorio de Macroecología Evolutiva evaluó los efectos de las capacidades de dispersión de las familias Emberizoidea del Nuevo Mundo en sus tasas y patrones de diversificación.
+
+### Educación
+
+- **Maestría** — Instituto de Ecología, A.C. (2019)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

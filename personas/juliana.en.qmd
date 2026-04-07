@@ -1,0 +1,32 @@
+---
+title: "Juliana Herrera Pérez"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/juliana.jpeg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Ichthyology]{.profile-tag} [Macroecology]{.profile-tag} [Macroevolution]{.profile-tag}
+
+I am a Biologist from the University of Antioquia and obtained my master's degree there as well. For the past eight years I have worked with aquatic ecosystems in the northern Andes, from fish community ecology to population genetics and phylogeography. As a PhD student at INECOL, I study how morphological and ecological traits of freshwater fish species have influenced their diversification on a global scale.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Universidad de Antioquia, Colombia (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

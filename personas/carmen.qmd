@@ -1,0 +1,31 @@
+---
+title: "Carmen Galán Acedo"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/carmen.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:cgalanac@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**Investigadora Visitante**  
+UNAM-Morelia
+
+*Intereses:* [Ecología del paisaje]{.profile-tag} [Primatología]{.profile-tag} [Patrones espaciales]{.profile-tag}
+
+Me doctoré en Ciencias Biológicas en la UNAM en 2019. Mi principal experiencia en investigación se ha centrado en la ecología de paisajes tropicales, con un fuerte componente en biología de la conservación. Mi principal objetivo es contribuir al entendimiento de los efectos del cambio de uso de suelo en la biodiversidad, evaluando en particular sus efectos en primates a escala regional y global.
+
+### Educación
+
+- **Doctorado** — Universidad Nacional Autónoma de México, UNAM-Morelia (2019)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

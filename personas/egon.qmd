@@ -1,0 +1,33 @@
+---
+title: "Egon Luis Vilela do Valle"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/egon.jpg){.profile-photo-large}
+
+::: {.profile-links}
+
+:::
+:::
+
+::: {.profile-right}
+**Alumni de Doctorado**  
+Universidade Federal de Goiás, Brasil
+
+*Intereses:* [Macroecología]{.profile-tag} [Evolución]{.profile-tag} [Murciélagos]{.profile-tag} [Bioacústica]{.profile-tag}
+
+Biólogo con maestría por la Universidade Federal de Uberlândia (UFU), Brasil. Su investigación doctoral se centró en el papel de la evolución en el tamaño del rango geográfico, el nicho climático y la capacidad de dispersión en el orden Chiroptera. También tiene interés en la taxonomía y taxidermia de murciélagos.
+
+### Educación
+
+- **Doctorado** — Universidade Federal de Goiás, Brasil (2023)
+- **Maestría** — Universidade Federal de Uberlândia, Brasil (2019)
+- **Licenciatura** — Universidade Federal Rural do Rio de Janeiro, Brasil (2017)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

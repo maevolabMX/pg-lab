@@ -1,0 +1,32 @@
+---
+title: "Jessica Falcão"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/jessica.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:jecafalcao@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**Investigadora Posdoctoral**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Plantas exóticas]{.profile-tag} [Ecología de invasiones]{.profile-tag} [Interacciones insecto–planta]{.profile-tag}
+
+Bióloga con experiencia en distintas áreas, siempre fascinada por los insectos y sus interacciones con las plantas. En el Laboratorio de Macroecología Evolutiva estudia la estructura filogenética de ensamblajes de plantas exóticas y nativas en bosques mesófilos de montaña en México.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (2022)
+- **Maestría** — Universidade Federal do Mato Grosso, Brasil (2013)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

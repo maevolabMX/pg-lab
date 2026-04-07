@@ -1,0 +1,31 @@
+---
+title: "Ana Berenice García Andrade"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/bere.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:berenice.garcia@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Alumni de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Ictiología]{.profile-tag} [Poecílidos]{.profile-tag} [Macroecología]{.profile-tag} [Macroevolución]{.profile-tag}
+
+Bióloga con maestría por la Universidad Michoacana de San Nicolás de Hidalgo (México). Sus investigaciones filogeográficas previas evaluaron el efecto de las oscilaciones climáticas y la actividad tectovolcánica sobre la diversidad genética y las relaciones filogenéticas de peces de agua dulce del centro de México. En su doctorado en el INECOL estudió los patrones de diversidad de la familia Poeciliidae bajo un enfoque macroecológico y macroevolutivo.
+
+### Educación
+
+- **Maestría** — Universidad Michoacana de San Nicolás de Hidalgo (2018)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

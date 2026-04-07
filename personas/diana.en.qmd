@@ -1,0 +1,33 @@
+---
+title: "Diana M. Ochoa-Sanz"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/diana.jpeg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:diana.ochoa@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Bats]{.profile-tag} [Trophic Ecology]{.profile-tag} [Macroevolution]{.profile-tag}
+
+I am a biology graduate from Pontificia Universidad Javeriana Cali, Colombia, and I obtained my master's degree at INECOL. Since the beginning of my career, I have been fascinated by the ecological and evolutionary patterns shaping the diversity of phyllostomid bats, with a special interest in their extraordinary trophic diversity. My doctoral research focuses on understanding the dimensions of dietary specialization and their relationship with rarity patterns in phyllostomids.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Instituto de Ecología, A.C. (2024)
+- **BSc** — Pontificia Universidad Javeriana Cali, Colombia (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

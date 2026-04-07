@@ -1,0 +1,33 @@
+---
+title: "Diana M. Ochoa-Sanz"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/diana.jpeg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:diana.ochoa@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Murciélagos]{.profile-tag} [Ecología trófica]{.profile-tag} [Macroevolución]{.profile-tag}
+
+Bióloga graduada de la Pontificia Universidad Javeriana Cali (Colombia), con maestría en el INECOL. Desde el inicio de su carrera ha estado fascinada por los patrones ecológicos y evolutivos que moldean la diversidad de los murciélagos filostómidos, con especial interés en su extraordinaria diversidad trófica. Su investigación doctoral se enfoca en las dimensiones de la especialización dietaria y su relación con los patrones de rareza en esta familia.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Instituto de Ecología, A.C. (2024)
+- **Licenciatura** — Pontificia Universidad Javeriana Cali, Colombia (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

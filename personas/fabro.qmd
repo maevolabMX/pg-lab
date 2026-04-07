@@ -1,0 +1,36 @@
+---
+title: "Fabricio Villalobos"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/fabro.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:fabricio.villalobos@inecol.mx)  
+[Google Scholar](https://scholar.google.com/citations?user=9CxnRG4AAAAJ)  
+[GitHub](https://github.com/fabro)  
+[Twitter / X](https://twitter.com/FabroVillalobos)
+:::
+:::
+
+::: {.profile-right}
+**Investigador Titular C, SNI III**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Macroecología]{.profile-tag} [Biogeografía]{.profile-tag} [Macroevolución]{.profile-tag} [Biología de la Conservación]{.profile-tag}
+
+Interesado en todo lo "macroecológico". La macroecología es un programa de investigación sintético que busca comprender las propiedades estadísticas emergentes de los sistemas ecológicos complejos a escalas espaciales y temporales amplias. Se enfoca en integrar la ecología, la biogeografía y la macroevolución para explicar los patrones geográficos de biodiversidad.
+
+### Educación
+
+- **Investigación Posdoctoral** — Universidade Federal de Goiás, Brasil (2012–2014)
+- **Doctorado** — Universidad Nacional Autónoma de México (2011)
+- **Licenciatura** — Universidad Nacional Autónoma de México (2006)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

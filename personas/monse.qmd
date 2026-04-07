@@ -1,0 +1,32 @@
+---
+title: "Monserrat Juárez"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/monse.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:monserrat.juarez@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Maestría**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Carnívoros]{.profile-tag} [Impacto antrópico]{.profile-tag} [Macroecología]{.profile-tag}
+
+Bióloga de la Universidad Autónoma de Tlaxcala, donde estudió la diversidad de mamíferos medianos y grandes en diferentes usos de suelo entre los Parques Nacionales Iztaccíhuatl-Popocatépetl y La Malinche. Su investigación de maestría en el INECOL evalúa los patrones espaciales de diferentes dimensiones de la diversidad de carnívoros y los factores ambientales y antrópicos que los determinan.
+
+### Educación
+
+- **Maestría** — Instituto de Ecología, A.C. (en curso)
+- **Licenciatura** — Universidad Autónoma de Tlaxcala (2022)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

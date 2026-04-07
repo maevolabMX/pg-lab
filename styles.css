@@ -12,10 +12,17 @@ body {
 
 .team-preview-grid {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+
+.team-preview-row {
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem 1.25rem;
-  margin: 1.5rem 0;
+  margin-bottom: 0.5rem;
 }
 
 .team-preview-card {
@@ -379,4 +386,21 @@ h3 {
 hr {
   border-top: 1px solid var(--bs-border-color);
   margin: 2rem 0;
+}
+
+/* ── Dark mode: card text contrast fixes ────────────────── */
+
+.quarto-dark .project-card,
+[data-bs-theme="dark"] .project-card,
+.quarto-dark .team-card,
+[data-bs-theme="dark"] .team-card {
+  background: var(--bs-body-bg);
+  color: var(--bs-body-color);
+}
+
+.quarto-dark .project-card p,
+[data-bs-theme="dark"] .project-card p,
+.quarto-dark .team-card p,
+[data-bs-theme="dark"] .team-card p {
+  color: var(--bs-body-color);
 }

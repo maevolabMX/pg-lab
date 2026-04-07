@@ -1,0 +1,32 @@
+---
+title: "Gerardo Dirzo Uribe"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/gerardo.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:gerardo.dirzo@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Bats]{.profile-tag} [Mammals]{.profile-tag} [Macroecology]{.profile-tag}
+
+I am a biologist from FCB-UAEM, where I modeled the niche and distribution of the Volcano Rabbit (*Romerolagus diazi*) at different spatial scales. I obtained my Master's degree at CIByC-UAEM, where I assessed niche conservatism in the genus *Rhogeessa* (Chiroptera). My PhD research at INECOL focuses on assessing the relationship between Grinnellian and Eltonian niche breadth and patterns of richness and geographic distribution of phyllostomid bats.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — CIByC-UAEM (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

@@ -1,0 +1,31 @@
+---
+title: "Laura Saldívar Burrola"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/laura.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:laura.saldivar@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**MSc Alumni**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Mammalogy]{.profile-tag} [Landscape ecology]{.profile-tag} [Macroecology]{.profile-tag}
+
+I am a biologist graduated from the Universidad Autónoma de Ciudad Juárez. I have worked with mammal and bird ecology in arid and forested areas in northern Mexico. My master's research at INECOL investigated how two primate species (family Atelidae) respond to deforestation in tropical forests of southeastern Mexico, testing for possible extinction thresholds.
+
+### Education
+
+- **BSc** — Universidad Autónoma de Ciudad Juárez (2016)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

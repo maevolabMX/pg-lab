@@ -1,0 +1,33 @@
+---
+title: "Carlos Marín"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/carlos.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:carlos.marin@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Lizards]{.profile-tag} [Herpetology]{.profile-tag} [Macroevolution]{.profile-tag} [Systematics of Amphibians and Reptiles]{.profile-tag}
+
+I am an evolutionary biologist and herpetologist interested in understanding the environmental and historical factors shaping the geographical gradients of biodiversity through the lens of macroecology and macroevolution. Currently, I am a PhD student at INECOL evaluating the environmental correlates of endemism and lineage diversification gradients in a Neotropical lizard radiation.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Universidad de Antioquia, Colombia (2019)
+- **BSc** — Universidad de Antioquia, Colombia (2015)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

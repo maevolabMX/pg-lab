@@ -1,0 +1,32 @@
+---
+title: "Jessica Falcão"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/jessica.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:jecafalcao@gmail.com)
+:::
+:::
+
+::: {.profile-right}
+**Postdoctoral Researcher**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Exotic plants]{.profile-tag} [Invasion ecology]{.profile-tag} [Insect-plant interactions]{.profile-tag}
+
+I am a biologist who focused on different areas during my formation, always fascinated by insects and their interactions with plants. This led me through biological control, ant-plant interactions, and pollination ecology to my current passion: the puzzling mechanisms of plant invasibility and invasiveness. At the Evolutionary Macroecology Lab I am studying the phylogenetic structure of exotic and native plant assemblages in Mexican montane cloud forests.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (2022)
+- **MSc** — Universidade Federal do Mato Grosso, Brasil (2013)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

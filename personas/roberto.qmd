@@ -1,0 +1,33 @@
+---
+title: "Roberto Ruiz"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/roberto.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:roberto.ruiz@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Murciélagos]{.profile-tag} [Bioacústica]{.profile-tag} [Macroecología]{.profile-tag} [Ecología del paisaje]{.profile-tag} [Divulgación científica]{.profile-tag}
+
+Biólogo graduado de la FC-UASLP y maestro en Ciencias por el INECOL. Su principal interés es el estudio de los murciélagos: su bioacústica, movimiento en el paisaje, patrones macroecológicos y conservación. En su doctorado en el INECOL busca describir los vacíos de conocimiento en los rasgos funcionales de murciélagos y cómo afectan la comprensión de sus patrones macroecológicos y su conservación. Es también un gran promotor de la divulgación científica y el arte como medio de comunicación.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — Instituto de Ecología, A.C. (2023)
+- **Licenciatura** — Universidad Autónoma de San Luis Potosí (2020)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

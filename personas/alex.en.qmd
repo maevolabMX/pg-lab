@@ -1,0 +1,32 @@
+---
+title: "Alejandro Sánchez Barradas"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/alex.png){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:alejandro.sanchez@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Biotic interactions]{.profile-tag} [Carnivores]{.profile-tag} [Macroecology]{.profile-tag}
+
+I study how the number of potential prey species and available body size ranges influence the richness of carnivorous mammal species, and whether the predator-prey body size relationship relates to geographic and environmental co-occurrence. I am also highly interested in hypercarnivore trophic ecology, particularly big cats, and its relation to the environmental niche and social behavior of their prey.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Instituto de Ecología, A.C. (2018)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::

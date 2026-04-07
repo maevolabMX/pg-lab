@@ -1,0 +1,32 @@
+---
+title: "Gerardo Dirzo Uribe"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/gerardo.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:gerardo.dirzo@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**Estudiante de Doctorado**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Intereses:* [Murciélagos]{.profile-tag} [Mamíferos]{.profile-tag} [Macroecología]{.profile-tag}
+
+Biólogo de la FCB-UAEM, donde modeló el nicho y distribución del Zacatuche (*Romerolagus diazi*) a distintas escalas espaciales. Obtuvo su maestría en el CIByC-UAEM, donde evaluó el conservadurismo de nicho del género *Rhogeessa* (Chiroptera). Actualmente su investigación doctoral se enfoca en evaluar la relación entre la amplitud de nicho Grinnelliano y Eltoniano con los patrones de riqueza y distribución geográfica de murciélagos filostómidos.
+
+### Educación
+
+- **Doctorado** — Instituto de Ecología, A.C. (en curso)
+- **Maestría** — CIByC-UAEM (2021)
+:::
+:::
+
+::: {.profile-back}
+[← Regresar al Equipo](../equipo.html)
+:::

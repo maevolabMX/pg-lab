@@ -1,0 +1,33 @@
+---
+title: "Roberto Ruiz"
+toc: false
+---
+
+::: {.profile-header}
+::: {.profile-left}
+![](../images/equipo/roberto.jpg){.profile-photo-large}
+
+::: {.profile-links}
+[✉](mailto:roberto.ruiz@posgrado.ecologia.edu.mx)
+:::
+:::
+
+::: {.profile-right}
+**PhD Student**  
+Instituto de Ecología, A.C. (INECOL)
+
+*Interests:* [Bats]{.profile-tag} [Bioacoustics]{.profile-tag} [Macroecology]{.profile-tag} [Landscape Ecology]{.profile-tag} [Science outreach]{.profile-tag}
+
+I am a biology graduate from the Faculty of Sciences of the Autonomous University of San Luis Potosí and a Master of Science from INECOL. My main interest is the study of bats: their bioacoustics, movement through the landscape, macroecological patterns, and conservation. In my PhD at INECOL, I aim to describe knowledge gaps in bat functional traits and how these gaps affect our understanding of their macroecological patterns and conservation. I am also a strong promoter of science outreach and art as a means of communicating science.
+
+### Education
+
+- **PhD** — Instituto de Ecología, A.C. (ongoing)
+- **MSc** — Instituto de Ecología, A.C. (2023)
+- **BSc** — Universidad Autónoma de San Luis Potosí (2020)
+:::
+:::
+
+::: {.profile-back}
+[← Back to Team](../equipo.html)
+:::
