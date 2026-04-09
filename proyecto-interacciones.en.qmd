@@ -8,18 +8,8 @@ title: "Macroecology of Interactions"
 
 ---
 
-Several biotic and abiotic factors change across time and space, which may directly affect not only the distribution and abundance of species but also other dimensions of biodiversity such as ecological functions and biotic interactions. Over such spatial and temporal gradients, interactions among species form complex ecological networks with emergent properties that cannot be observed at the species or community level. The properties of species interaction networks can be associated with geographical as well as climatic gradients and be shaped by different ecological and evolutionary processes such as dispersal capacity and evolutionary history of the interacting species.
+Several biotic and abiotic factors change across time and space, which may directly affect not only the distribution and abundance of species but also other dimensions of biodiversity such as ecological functions and biotic interactions. Over such spatial and temporal gradients, interactions among species form complex ecological networks with emergent properties that cannot be observed at the species or community level. Applying a macroecological approach to biotic interactions, therefore, involves exploring emergent patterns derived from emergent properties.
 
-In this project, we combine macroecological and ecological network approaches to study biotic interactions at broad spatial scales (Corro et al. 2020, 2021). More specifically, we are interested in species-level properties (Dáttilo et al. 2020; Moulatlet et al. 2023) as well as assemblage/network-level properties and their spatial and environmental correlates (Luna et al. 2022).
-
-## Team
-
-**Fabricio Villalobos** (PI), Wesley Dáttilo, **Gabriel Massaine Moulatlet**, Daniel González-Tokman, Andrés Lira-Noriega, W. Daniel Kissling, Ignacio Morales-Castilla
-
-## Funding
-
-Consejo Nacional de Ciencia y Tecnología: Ciencia Básica SEP-CONACYT (2019–2022)
+The properties of species interaction networks can be associated with geographical as well as climatic gradients and be shaped by different ecological and evolutionary processes such as dispersal capacity and evolutionary history of the interacting species. In this project, we combine macroecological and ecological network approaches to study biotic interactions at broad spatial scales (Corro et al. 2020, 2021). More specifically, we are interested in species-level (Dáttilo et al. 2020; Moulatlet et al. 2023) as well as assemblage/network-level properties and their spatial/environmental correlates (Luna et al. 2022). In this vein, we are interested in the formal integration between biotic interactions and macroecology as a means for testing ecological and evolutionary theories across spatial and temporal scales (forthcoming book edited by Wesley Dáttilo and Fabricio Villalobos, Elsevier).
 
 ---
-
-[← Back to Projects](proyectos.qmd)
