@@ -5,8 +5,8 @@ project:
 website:
   title: "maevolab"
   favicon: favicon.png
-  repo-url: https://github.com/luisdva/pg-lab
-  site-url: https://luisdva.github.io/pg-lab
+  repo-url: https://github.com/maevolabMX/pg-lab
+  site-url: https://maevolab.mx
 format:
   html:
     theme:
