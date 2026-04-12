@@ -46,13 +46,12 @@ We integrate macroecological theory and methods with phylogenetic approaches to 
 
 ## Research
 
-Our research interests span macroecology, macroevolution, biogeography, community ecology, ecophylogenetics, and conservation biology. We work primarily with vertebrates, but also with insects and plants.
+Our research interests span macroecology, macroevolution, biogeography, community ecology, ecophylogenetics, and conservation biology. We work with different taxa, with focus on vertebrates.
 
 - Macroecology
 - Biogeography
 - Macroevolution
 - Conservation Biogeography
-- Spatial Statistics
 - Phylogenetic Comparative Methods
 
 [View research →](investigacion.qmd){.btn .btn-outline-primary .mt-3}
