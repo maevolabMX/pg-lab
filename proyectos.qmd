@@ -2,7 +2,7 @@
 title: "Proyectos"
 ---
 
-Nuestras líneas de investigación activas, que integran macroecología, macroevolución, biogeografía y biología de la conservación.
+Nuestras líneas de investigación integran macroecología, macroevolución, biogeografía y biología de la conservación.
 
 ---
 
@@ -13,7 +13,7 @@ Nuestras líneas de investigación activas, que integran macroecología, macroev
 
 ### [(Macro)ecología Evolutiva](proyecto-macroecologia.qmd)
 
-Estudiamos patrones macroecológicos bajo una perspectiva evolutiva, integrando ecología, biogeografía y filogenia para comprender los gradientes geográficos de biodiversidad y los factores que determinan los rangos geográficos de las especies.
+Estudiamos patrones macroecológicos bajo una perspectiva evolutiva, integrando ecología, biogeografía y evolución para comprender los gradientes geográficos de biodiversidad y los factores que determinan las distribuciones geográficos de las especies.
 
 [Más detalles →](proyecto-macroecologia.qmd){.btn .btn-sm .btn-outline-primary}
 :::
@@ -23,7 +23,7 @@ Estudiamos patrones macroecológicos bajo una perspectiva evolutiva, integrando 
 
 ### [Macroevolución](proyecto-macroevolucion.qmd)
 
-Investigamos los procesos evolutivos de especiación, extinción y dispersión que cambian el número de especies a través del planeta, así como la evolución de rasgos morfológicos y ecológicos a escalas macroevolutivas.
+Investigamos los procesos evolutivos de especiación, extinción y dispersión que determinan el número de especies en el planeta, así como la evolución de atributos morfológicos y ecológicos a lo largo de la historia de los clados.
 
 [Más detalles →](proyecto-macroevolucion.qmd){.btn .btn-sm .btn-outline-primary}
 :::
@@ -33,7 +33,7 @@ Investigamos los procesos evolutivos de especiación, extinción y dispersión q
 
 ### [Biogeografía de la Conservación](proyecto-consbiogeo.qmd)
 
-Implementamos análisis macroecológicos en el contexto de la planificación para la conservación: designación de sitios prioritarios, brechas de conocimiento, invasiones biológicas y efectos de la pérdida y fragmentación del hábitat.
+Implementamos análisis macroecológicos en el contexto de la planificación para la conservación: identificación de sitios prioritarios, lagunas de conocimiento, invasiones biológicas y efectos de la pérdida y fragmentación del hábitat.
 
 [Más detalles →](proyecto-consbiogeo.qmd){.btn .btn-sm .btn-outline-primary}
 :::
@@ -43,7 +43,7 @@ Implementamos análisis macroecológicos en el contexto de la planificación par
 
 ### [Macroecología de Interacciones](proyecto-interacciones.qmd)
 
-Combinamos enfoques macroecológicos y de redes ecológicas para estudiar cómo las interacciones bióticas varían a través de gradientes geográficos y climáticos a amplias escalas espaciales.
+Combinamos enfoques macroecológicos y de redes ecológicas para estudiar cómo las interacciones bióticas, a nivel especie y de red, varían a través de gradientes geográficos y climáticos.
 
 [Más detalles →](proyecto-interacciones.qmd){.btn .btn-sm .btn-outline-primary}
 :::
