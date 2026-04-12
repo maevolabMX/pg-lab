@@ -9,7 +9,7 @@ toc: false
 
 ## Bienvenid@s al Laboratorio de Macroecología Evolutiva
 
-Nuestro laboratorio se enfoca en la intersección entre la macroecología y la macroevolución, considerando patrones macroecológicos bajo una perspectiva evolutiva junto con patrones y procesos evolutivos en un contexto espacial. Estamos ubicados en la <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/biologia-evolutiva">Red de Biología Evolutiva</a> del <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, México</a>. También somos parte del <a href="https://ecoevol.ufg.br/">Programa de Posgrado en Ecología y Evolución de la Universidade Federal de Goiás (UFG), Brasil</a>. Apoyamos la <a href="https://peeer.net">iniciativa PEEER para un sistema de publicación científica equitativa y ética</a>.
+Nuestro laboratorio se enfoca en la intersección entre la macroecología y la macroevolución, considerando patrones macroecológicos bajo una perspectiva evolutiva junto con patrones y procesos evolutivos en un contexto espacial. Estamos en la <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/biologia-evolutiva">Red de Biología Evolutiva</a> del <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, México</a>. También somos parte del <a href="https://ecoevol.ufg.br/">Programa de Posgrado en Ecología y Evolución de la Universidade Federal de Goiás (UFG), Brasil</a>. Apoyamos la <a href="https://peeer.net">iniciativa PEEER para un sistema de publicación científica equitativa y ética</a>.
 
 <p class="language-note"><i class="bi bi-translate"></i> Este sitio está disponible en español e inglés. Usa el botón con la bandera en la barra de navegación para cambiar de idioma.</p>
 
@@ -46,13 +46,12 @@ Integramos teoría y métodos macroecológicos con enfoques filogenéticos para 
 
 ## Investigación
 
-Nuestros intereses de investigación abarcan los campos de la macroecología, macroevolución, biogeografía, ecología comunitaria, ecofilogenética y biología de la conservación. Trabajamos principalmente con vertebrados, pero también con insectos y plantas.
+Nuestros intereses de investigación abarcan los campos de la macroecología, macroevolución, biogeografía, ecología de comunidades y biología de la conservación. Trabajamos con diferentes grupos biológicos, .
 
 - Macroecología
 - Biogeografía
 - Macroevolución
 - Biogeografía de la Conservación
-- Estadísticas Espaciales
 - Métodos Comparativos Filogenéticos
 
 [Ver investigación →](investigacion.qmd){.btn .btn-outline-primary .mt-3}
@@ -69,7 +68,7 @@ Nuestros intereses de investigación abarcan los campos de la macroecología, ma
 
 ::: {.project-card}
 ### [(Macro)ecología Evolutiva](proyecto-macroecologia.qmd)
-Patrones macroecológicos bajo una perspectiva evolutiva, integrando ecología, biogeografía y filogenia.
+Patrones macroecológicos bajo una perspectiva evolutiva, integrando ecología, biogeografía y evolución.
 [Más detalles →](proyecto-macroecologia.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
 :::
 
@@ -81,7 +80,7 @@ Procesos evolutivos de especiación, extinción y dispersión que moldean la div
 
 ::: {.project-card}
 ### [Biogeografía de la Conservación](proyecto-consbiogeo.qmd)
-Análisis macroecológicos aplicados a la planificación para la conservación y la identificación de brechas de conocimiento.
+Análisis macroecológicos aplicados a la planificación para la conservación y la identificación de lagunas del conocimiento.
 [Más detalles →](proyecto-consbiogeo.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
 :::
 
