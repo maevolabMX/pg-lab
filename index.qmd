@@ -11,7 +11,7 @@ toc: false
 
 Nuestro laboratorio se enfoca en la intersección entre la macroecología y la macroevolución, considerando patrones macroecológicos bajo una perspectiva evolutiva junto con patrones y procesos evolutivos en un contexto espacial. Estamos en la <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/biologia-evolutiva">Red de Biología Evolutiva</a> del <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, México</a>. También somos parte del <a href="https://ecoevol.ufg.br/">Programa de Posgrado en Ecología y Evolución de la Universidade Federal de Goiás (UFG), Brasil</a>. Apoyamos la <a href="https://peeer.net">iniciativa PEEER para un sistema de publicación científica equitativa y ética</a>.
 
-<p class="language-note"><i class="bi bi-translate"></i> Este sitio está disponible en español e inglés. Usa el botón con la bandera en la barra de navegación para cambiar de idioma.</p>
+<p class="language-note"><i class="bi bi-translate"></i> This site is available in English and Spanish. Use the flag button in the navigation bar to switch languages. </p>
 
 :::
 :::
