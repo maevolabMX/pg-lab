@@ -23,9 +23,10 @@ jobs:
 
       - name: Install R dependencies
         run: |
-          install.packages(
+          install.packages("pak", repos = "https://cloud.r-project.org")
+          pak::pkg_install(
             "babelquarto",
-            repos = c("https://ropensci.r-universe.dev", "https://cloud.r-project.org")
+            repos = c("https://ropensci.r-universe.dev", getOption("repos"))
           )
         shell: Rscript {0}
         
