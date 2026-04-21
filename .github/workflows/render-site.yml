@@ -22,11 +22,13 @@ jobs:
           use-public-rspm: true
 
       - name: Install R dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          packages: |
-            any::babelquarto
-
+        run: |
+          install.packages(
+            "babelquarto",
+            repos = c("https://ropensci.r-universe.dev", "https://cloud.r-project.org")
+          )
+        shell: Rscript {0}
+        
       - name: Preserve CNAME
         run: |
           if [ -f docs/CNAME ]; then
