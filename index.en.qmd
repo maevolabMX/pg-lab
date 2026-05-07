@@ -103,6 +103,14 @@ Ecological networks and their variation across geographic and climatic gradients
 
 ## Recent Publications
 
+- [Phylogenetic Patterns in Hunting and Extinction Risk in Primates](https://doi.org/10.1111/acv.70068)  
+  **Luis D. Verde Arregoitia**, **Carmen Galán-Acedo**, K. A.-I. Nekaris, P. A. Garber, M. F. Hansen, J. C. Bicca-Marques, M. S. Svensson, V. Nijman, S. Shanee, A. Chaudhary, A. Estrada, R. Dobrovolski, S. F. Gouveia, **Fabricio Villalobos**  
+  *Animal Conservation* (2026)
+
+- [Climatic niche properties shape treefrog diversity](https://doi.org/10.1371/journal.pone.0348700)  
+  F. A. Toro-Cardona, J. A. Velasco, J. Pinto-Ledezma, S. M. Rovito, **Fabricio Villalobos**, O. R. Rojas-Soto, J. L. Parra  
+  *PLoS ONE* (2026)
+
 - [Species range shifts often speed
 ahead of their modeled climatic niches. Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2515903123)  
  Oliveira, B. F., Bertrand, R., Pinsky, M. L., Casajus, N., Wolfe, B. W., Scheffers, B. R., **Villalobos, F.** ... & Comte, L. _Proceedings of the National Academy of
@@ -120,12 +128,6 @@ T., ... **Villalobos, F**... & Rolland, J. _Ecology Letters_ (2026)
 
 - [Advances in the Biogeography of Neotropical Mammals](https://doi.org/10.1007/978-3-031-43163-0_25-1)  
   **Luis D. Verde Arregoitia**, **Fabricio Villalobos** — *Mammals of Middle and South America. Springer* (2026)
-
-- [Evolutionary Responses to Climate Change](https://doi.org/10.1016/B978-0-443-15750-9.00094-X)  
-  **Fabricio Villalobos** et al. — *Encyclopedia of Evolutionary Biology, 2nd ed.* (2026)
-
-- [Prevalence and patterns of convergent ecomorphological evolution in rodents](https://doi.org/10.1093/biolinnean/blaf122)  
-  **Luis D. Verde Arregoitia**, **Fabricio Villalobos** et al. — *Biological Journal of the Linnean Society* (2025)
 
 [View all publications →](publicaciones.qmd){.btn .btn-outline-light .mt-3}
 
