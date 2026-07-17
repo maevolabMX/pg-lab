@@ -11,7 +11,7 @@ toc: false
 [✉](mailto:fabricio.villalobos@inecol.mx)  
 [Google Scholar](https://scholar.google.com/citations?user=9CxnRG4AAAAJ)  
 [GitHub](https://github.com/fabro)  
-[Twitter / X](https://twitter.com/FabroVillalobos)
+[BlueSky](https://bsky.app/profile/fabrovillalobos.bsky.social)
 :::
 :::
 
@@ -32,7 +32,7 @@ Me interesa todo lo "macroecológico". La macroecología es un programa de inves
 
 ### Servicio editorial
 
-- **Editor Jefe** — _[Biogeography](https://biog.journals.sup.org/index.php/biog)_ Macroecology section
+- **Editor Jefe** — _[Biogeography](https://biog.journals.sup.org/index.php/biog)_  Macroecology section
 - **Editor Asociado** — _[Evolutionary Journal of the Linnean Society](https://academic.oup.com/evolinnean)_
 - **Editor Asociado** — _[Biogeographia – The Journal of Integrative Biogeography](https://escholarship.org/uc/biogeographia)_ 
 :::
