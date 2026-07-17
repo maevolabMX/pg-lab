@@ -233,6 +233,16 @@ Estudia los vacíos de conocimiento en los rasgos funcionales de murciélagos y 
 [Ver perfil completo →](personas/roberto.html)
 :::
 
+
+
+:::
+
+---
+
+## Alumni
+
+::: {.team-grid}
+
 ::: {.team-card}
 ![](images/equipo/monse.jpg){.team-photo}
 
@@ -247,14 +257,6 @@ Evalúa los patrones espaciales de diferentes dimensiones de la diversidad de ca
 
 [Ver perfil completo →](personas/monse.html)
 :::
-
-:::
-
----
-
-## Alumni
-
-::: {.team-grid}
 
 ::: {.team-card}
 ![](images/equipo/egon.jpg){.team-photo}
