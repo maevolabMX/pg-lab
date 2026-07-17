@@ -38,24 +38,10 @@ jobs:
           )
         shell: Rscript {0}
 
-      - name: Preserve CNAME
-        run: |
-          if [ -f docs/CNAME ]; then
-            cp docs/CNAME /tmp/CNAME_backup
-            echo "CNAME backed up: $(cat /tmp/CNAME_backup)"
-          else
-            echo "maevolab.mx" > /tmp/CNAME_backup
-            echo "No CNAME found — will use default: maevolab.mx"
-          fi
 
       - name: Render website
         run: |
           Rscript -e 'babelquarto::render_website(site_url = "https://maevolab.mx")'
-
-      - name: Restore CNAME
-        run: |
-          cp /tmp/CNAME_backup docs/CNAME
-          echo "CNAME restored: $(cat docs/CNAME)"
 
       - name: Commit and push rendered site
         run: |
