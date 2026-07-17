@@ -19,15 +19,22 @@ toc: false
 **Investigador Titular C, SNI III**  
 Instituto de Ecología, A.C. (INECOL)
 
-*Intereses:* [Macroecología]{.profile-tag} [Biogeografía]{.profile-tag} [Macroevolución]{.profile-tag} [Biología de la Conservación]{.profile-tag}
+*Intereses:* [Macroecología]{.profile-tag} [Biogeografía]{.profile-tag} [Macroevolución]{.profile-tag} [Biogeografía de la Conservación]{.profile-tag}
 
-Interesado en todo lo "macroecológico". La macroecología es un programa de investigación sintético que busca comprender las propiedades estadísticas emergentes de los sistemas ecológicos complejos a escalas espaciales y temporales amplias. Se enfoca en integrar la ecología, la biogeografía y la macroevolución para explicar los patrones geográficos de biodiversidad.
+Me interesa todo lo "macroecológico". La macroecología es un programa de investigación sintético que busca comprender las propiedades estadísticas emergentes de sistemas ecológicos a escalas espaciales y temporales amplias. Particularmente, me interesa la integración entre macroecología, macroevolución y biogeografía, considerando patrones espaciales con perspectiva evolutiva y patrones evolutivos con perspectiva geográfica.
 
 ### Educación
 
 - **Investigación Posdoctoral** — Universidade Federal de Goiás, Brasil (2012–2014)
 - **Doctorado** — Universidad Nacional Autónoma de México (2011)
 - **Licenciatura** — Universidad Nacional Autónoma de México (2006)
+
+
+### Servicio editorial
+
+- **Editor Jefe** — _[Biogeography](https://biog.journals.sup.org/index.php/biog)_ Macroecology section
+- **Editor Asociado** — _[EVolutionary Journal of the Linnean Society](https://academic.oup.com/evolinnean)_
+- **Editor Asociado** — _[Biogeographia – The Journal of Integrative Biogeography](https://escholarship.org/uc/biogeographia)_ 
 :::
 :::
 
