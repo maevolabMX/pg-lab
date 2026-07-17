@@ -233,6 +233,16 @@ Studies knowledge gaps in bat functional traits and their effect on macroecologi
 [View full profile →](personas/roberto.html)
 :::
 
+
+
+:::
+
+---
+
+## Alumni
+
+::: {.team-grid}
+
 ::: {.team-card}
 ![](images/equipo/monse.jpg){.team-photo}
 
@@ -247,14 +257,6 @@ Evaluates spatial patterns of carnivore diversity dimensions and the environment
 
 [View full profile →](personas/monse.html)
 :::
-
-:::
-
----
-
-## Alumni
-
-::: {.team-grid}
 
 ::: {.team-card}
 ![](images/equipo/egon.jpg){.team-photo}
