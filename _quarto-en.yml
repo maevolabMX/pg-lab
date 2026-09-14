@@ -11,3 +11,19 @@ website:
         text: Team
       - href: publicaciones.qmd
         text: Publications
+      - text: "Curso Macro UdeA"
+        menu:
+          - href: cursoMacro_UdeA/1_sp_ranges.rmd
+            text: "1. Presencias y distribuciones geográficas"
+          - href: cursoMacro_UdeA/2_spp_richness.rmd
+            text: "2. Riqueza de especies y escalas"
+          - href: cursoMacro_UdeA/3_RD_approach.rmd
+            text: "3. Análisis Range-Diversity"
+          - href: cursoMacro_UdeA/4_correlative.rmd
+            text: "4. Enfoque correlativo y escalas"
+          - href: cursoMacro_UdeA/5_spatial_filters_MX.rmd
+            text: "5. El espacio y la riqueza"
+          - href: cursoMacro_UdeA/6_null_models.rmd
+            text: "6. Modelos nulos en comunidades"
+          - href: cursoMacro_UdeA/7_ecogeo_rules.rmd
+            text: "7. Reglas Ecogeográficas"
