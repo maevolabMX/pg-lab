@@ -3,7 +3,6 @@ title: "Enfoque correlativo y escalas"
 lang: es
 ---
 
-# Enfoque correlativo y escalas
 Fabricio Villalobos - INECOL, México
 
 **Macroecología**
