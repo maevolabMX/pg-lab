@@ -3,7 +3,6 @@ title: "Agregando el espacio al análisis de la riqueza"
 lang: es
 ---
 
-# Agregando el "espacio" al análisis de la riqueza
 Fabricio Villalobos - INECOL, México
 
 **Macroecología**
