@@ -3,7 +3,6 @@ title: "Distribuciones, riqueza de especies y escalas"
 lang: es
 ---
 
-# Distribuciones, riqueza de especies y escalas
 Fabricio Villalobos - INECOL, México
 
 **Macroecología**
