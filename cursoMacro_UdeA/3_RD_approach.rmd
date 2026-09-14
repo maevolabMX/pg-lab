@@ -3,7 +3,6 @@ title: "Análisis simultáneo de distribución y diversidad (Range-Diversity)"
 lang: es
 ---
 
-# Análisis simultáneo de distribución y diversidad (Range-Diversity)
 Fabricio Villalobos - INECOL, México
 
 **Macroecología**
