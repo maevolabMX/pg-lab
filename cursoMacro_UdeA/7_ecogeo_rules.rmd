@@ -3,7 +3,6 @@ title: "Reglas Ecogeográficas: el caso de Rapoport"
 lang: es
 ---
 
-# Regras Ecogeográficas: el caso de Rapoport
 Fabricio Villalobos - INECOL, México
 
 **Macroecología**
