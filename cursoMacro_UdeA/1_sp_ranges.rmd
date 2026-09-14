@@ -3,7 +3,6 @@ title: "Presencias/registros y distribuciones geográficas"
 lang: es
 ---
 
-# Presencias/registros y distribuciones geográficas
 Fabricio Villalobos - INECOL, México
 
 **Macroecología**
