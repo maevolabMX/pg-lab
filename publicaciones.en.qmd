@@ -8,6 +8,10 @@ Lab publications list. Team members' names are highlighted in **bold**.
 
 ### 2026
 
+- [Body elongation, lateral shape, and body size do not show a consistent effect on diversification rates of ray-finned fishes at broad phylogenetic scale](https://doi.org/10.1007/s10682-026-10397-0)
+  **J. Herrera-Pérez**, J. D. Carvajal-Quintero, P. A. Tedesco, L. Herrera-Alsina, **D. M. Ochoa-Sanz**, A. Espinosa de los Monteros, **Fabricio Villalobos**
+  *Evolutionary Ecology* (2026)
+  
 - [Unraveling Contaminant Effects on Biodiversity across Spatial, Temporal, and Biological Scales: The Macroecotoxicology Perspective](https://doi.org/10.1021/acs.est.6c05561)  
   **Gabriel M. Moulatlet**, Mariana V. Capparelli, Daniela M. Truchet, Andreu Rico, **Fabricio Villalobos**  
   *Environmental Science & Technology* (2026)
