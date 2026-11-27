@@ -14,7 +14,7 @@ Lab publications list. Team members' names are highlighted in **bold**.
 - [Status and shortfalls in the availability of genetic sequences and associated metadata for Mexican mammals](https://doi.org/10.12933/therya.2026.6275)  
   **Luis D. Verde Arregoitia**, **Martín Y. Cabrera-Garrido**, J. Saravia, L. D. Parker, **Fabricio Villalobos**  
   *Therya* (2026)
--- [Mapping diversity through geographical, environmental and attribute spaces](https://doi.org/10.1111/2041-210x.70421)  
+- [Mapping diversity through geographical, environmental and attribute spaces](https://doi.org/10.1111/2041-210x.70421)  
   Bruno Vilela, Bruna M. Farina,  Dobrovolsk R, S. F.  Gouvei, J. A. F.  Diniz-Filho, T. R. Rangel, T. S. Fristo, C. Calderón del Cid, M. T. P. Coelho, C. H.  Graha, **Fabricio Villalobos**  
   *Methods in Ecology and Evolution* (2026)
 - [A global research coordination programme is urgently needed for biodiversity](https://doi.org/10.1038/s41559-026-03123-0)
