@@ -8,6 +8,9 @@ Lab publications list. Team members' names are highlighted in **bold**.
 
 ### 2026
 
+- [A global research coordination programme is urgently needed for biodiversity](https://doi.org/10.1038/s41559-026-03123-0)
+  M. C. Urban, D. Zurell, G. Bocedi, A. Gonzalez, S. JE Velazco, B. S. Bezeng, N. J. Briscoe, L. Brotons, L. B. Buckley, A. C. de Oliveira Junior, R. Cooke, L. da Cunha Godoy, P. De Marco Júnior, T. D Eddy, S. Ferrier, G. Guillera-Arroita, N. JB. Isaac, C. B. Krug, C. J. Lundquist, M. Mamede, J. P. Metzger, K. L. Millette, K. Ortega-Cisneros, A. Purvis, J. Sarmento Cabral, J. Settele, J. MJ. Travis, **Fabricio Villalobos**, M. Winter, H. Xu
+  *Nature Ecology & Evolution* (2026)
 - [Unraveling Contaminant Effects on Biodiversity across Spatial, Temporal, and Biological Scales: The Macroecotoxicology Perspective](https://doi.org/10.1021/acs.est.6c05561)  
   **Gabriel M. Moulatlet**, Mariana V. Capparelli, Daniela M. Truchet, Andreu Rico, **Fabricio Villalobos**  
   *Environmental Science & Technology* (2026)
