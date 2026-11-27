@@ -8,6 +8,10 @@ Lista de publicaciones del laboratorio. Los nombres de los integrantes del equip
 
 ### 2026
 
+- [annotater: Enhancing library load calls in R](https://doi.org/10.48168/innosoft.s30.a370)  
+  **Luis D. Verde Arregoitia**, J. C. Rodríguez  
+  *Innovación y Software* (2026)
+
 - [Macroecological Patterns of Geographical Co-Occurrence in Phyllostomid Bats According to Their Dietary and Climatic Niches](https://doi.org/10.1111/mam.70043)
   **Gerardo Dirzo-Uribe**, M. Cristina MacSwiney G, Octavio Rojas-Soto, José Antonio Guerrero, **Fabricio Villalobos**
   *Mammal Review* (2026)
