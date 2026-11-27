@@ -8,6 +8,9 @@ Lab publications list. Team members' names are highlighted in **bold**.
 
 ### 2026
 
+- [Status and shortfalls in the availability of genetic sequences and associated metadata for Mexican mammals](https://doi.org/10.12933/therya.2026.6275)  
+  **Luis D. Verde Arregoitia**, **Martín Y. Cabrera-Garrido**, J. Saravia, L. D. Parker, **Fabricio Villalobos**  
+  *Therya* (2026)
 -- [Mapping diversity through geographical, environmental and attribute spaces](https://doi.org/10.1111/2041-210x.70421)  
   Bruno Vilela, Bruna M. Farina,  Dobrovolsk R, S. F.  Gouvei, J. A. F.  Diniz-Filho, T. R. Rangel, T. S. Fristo, C. Calderón del Cid, M. T. P. Coelho, C. H.  Graha, **Fabricio Villalobos**  
   *Methods in Ecology and Evolution* (2026)
@@ -26,8 +29,7 @@ Lab publications list. Team members' names are highlighted in **bold**.
   F. A. Toro-Cardona, J. A. Velasco, J. Pinto-Ledezma, S. M. Rovito, **Fabricio Villalobos**, O. R. Rojas-Soto, J. L. Parra  
   *PLoS ONE* (2026)
 
-- [Species range shifts often speed
-ahead of their modeled climatic niches. Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2515903123)  
+- [Species range shifts often speed ahead of their modeled climatic niches](https://doi.org/10.1073/pnas.2515903123)  
  Oliveira, B. F., Bertrand, R., Pinsky, M. L., Casajus, N., Wolfe, B. W., Scheffers, B. R., **Villalobos, F.** ... & Comte, L. _Proceedings of the National Academy of
 Sciences_ (2026) 
 
