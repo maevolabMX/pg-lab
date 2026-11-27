@@ -8,6 +8,9 @@ Lista de publicaciones del laboratorio. Los nombres de los integrantes del equip
 
 ### 2026
 
+- [Macroecological Patterns of Geographical Co-Occurrence in Phyllostomid Bats According to Their Dietary and Climatic Niches](https://doi.org/10.1111/mam.70043)
+  **Gerardo Dirzo-Uribe**, M. Cristina MacSwiney G, Octavio Rojas-Soto, José Antonio Guerrero, **Fabricio Villalobos**
+  *Mammal Review* (2026)
 - [Status and shortfalls in the availability of genetic sequences and associated metadata for Mexican mammals](https://doi.org/10.12933/therya.2026.6275)  
   **Luis D. Verde Arregoitia**, **Martín Y. Cabrera-Garrido**, J. Saravia, L. D. Parker, **Fabricio Villalobos**  
   *Therya* (2026)
