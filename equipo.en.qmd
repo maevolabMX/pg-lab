@@ -46,36 +46,6 @@ Mammalogist and conservation scientist specializing in the ecology and evolution
 ::: {.team-grid}
 
 ::: {.team-card}
-![](images/equipo/gabriel.jpeg){.team-photo}
-
-### Gabriel Massaine Moulatlet
-**Postdoctoral Researcher**  
-Instituto de Ecología, A.C. (INECOL)  
-*Interests:* Numerical Ecology · Macroecology · Diversity gradients · Environmental Impact Assessments
-
-Biologist with broad interest in tropical ecology, with experience in Amazonian forests and the Andes.
-
-[✉](mailto:mandprogabriel@gmail.com) · [gamamo.netlify.app](https://gamamo.netlify.app/)
-
-[View full profile →](personas/gabriel.html)
-:::
-
-::: {.team-card}
-![](images/equipo/carmen.png){.team-photo}
-
-### Carmen Galán Acedo
-**Visiting Researcher**  
-UNAM-Morelia  
-*Interests:* Landscape ecology · Primatology · Spatial patterns
-
-PhD in Biological Sciences from UNAM. Studies the effects of land-use change on biodiversity, particularly primates at regional and global scales.
-
-[✉](mailto:cgalanac@gmail.com)
-
-[View full profile →](personas/carmen.html)
-:::
-
-::: {.team-card}
 ![](images/equipo/jessica.jpg){.team-photo}
 
 ### Jessica Falcão
@@ -174,21 +144,6 @@ Studies the relationship between Grinnellian and Eltonian niche breadth and rich
 :::
 
 ::: {.team-card}
-![](images/equipo/juliana.jpeg){.team-photo}
-
-### Juliana Herrera Pérez
-**PhD Student**  
-Instituto de Ecología, A.C. (INECOL)  
-*Interests:* Ichthyology · Macroecology · Macroevolution
-
-Studies how morphological and ecological traits of freshwater fish species have influenced their diversification globally.
-
-[✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
-
-[View full profile →](personas/juliana.html)
-:::
-
-::: {.team-card}
 ![](images/equipo/kevin.jpg){.team-photo}
 
 ### Kevin Lopez Reyes
@@ -247,7 +202,7 @@ Studies knowledge gaps in bat functional traits and their effect on macroecologi
 ![](images/equipo/monse.jpg){.team-photo}
 
 ### Monserrat Juárez
-**MSc Student**  
+**Master's Student (2026)**  
 Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Carnivores · Anthropogenic impact · Macroecology
 
@@ -262,7 +217,7 @@ Evaluates spatial patterns of carnivore diversity dimensions and the environment
 ![](images/equipo/egon.jpg){.team-photo}
 
 ### Egon Luis Vilela do Valle
-**PhD Alumni** — Universidade Federal de Goiás, Brazil  
+**PhD Student** — Universidade Federal de Goiás, Brazil  
 *Interests:* Macroecology · Evolution · Bats · Bioacoustics
 
 Studied the role of evolution in geographic range size, climatic niche, and dispersal ability in the order Chiroptera.
@@ -274,7 +229,7 @@ Studied the role of evolution in geographic range size, climatic niche, and disp
 ![](images/equipo/juancho.jpg){.team-photo}
 
 ### Juan D. Carvajal-Quintero
-**PhD 2020** — Instituto de Ecología, A.C. (INECOL)  
+**PhD Student (2020)** — Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Freshwater systems · Fishes · Macroecology
 
 Currently a postdoctoral researcher at iDiv (Germany). His dissertation addressed drivers of geographic range size in freshwater fishes.
@@ -288,7 +243,7 @@ Currently a postdoctoral researcher at iDiv (Germany). His dissertation addresse
 ![](images/equipo/erick.png){.team-photo}
 
 ### Erick J. Corro
-**PhD 2022** — Instituto de Ecología, A.C. (INECOL)  
+**PhD Student (2022)** — Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Biotic interactions · Statistics · Spatial patterns
 
 Currently a professor at Universidad Veracruzana, Córdoba campus.
@@ -302,7 +257,7 @@ Currently a professor at Universidad Veracruzana, Córdoba campus.
 ![](images/equipo/axel.jpg){.team-photo}
 
 ### Axel Arango
-**PhD Alumni** — Instituto de Ecología, A.C. (INECOL)  
+**PhD Student (2023)** — Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Biogeography · Birds · Macroevolution
 
 Studied the effects of dispersal capabilities of New World Emberizoidea families on their diversification rates and patterns.
@@ -316,7 +271,7 @@ Studied the effects of dispersal capabilities of New World Emberizoidea families
 ![](images/equipo/bere.jpg){.team-photo}
 
 ### Ana Berenice García Andrade
-**PhD Alumni** — Instituto de Ecología, A.C. (INECOL)  
+**PhD Student (2022)** — Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Ichthyology · Poecilids · Macroecology · Macroevolution
 
 Studied diversity patterns of the family Poeciliidae under a macroecological and macroevolutionary approach.
@@ -330,7 +285,7 @@ Studied diversity patterns of the family Poeciliidae under a macroecological and
 ![](images/equipo/citlalli.jpg){.team-photo}
 
 ### Citlalli Edith Esparza Estrada
-**PhD Alumni** — Instituto de Ecología, A.C. (INECOL)  
+**PhD Student (2023)** — Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Herpetology · Snakes · Biogeography · Macroecology
 
 Studied macroecological and macroevolutionary patterns of viper distribution.
@@ -344,7 +299,7 @@ Studied macroecological and macroevolutionary patterns of viper distribution.
 ![](images/equipo/laura.jpg){.team-photo}
 
 ### Laura Saldívar Burrola
-**MSc Alumni** — Instituto de Ecología, A.C. (INECOL)  
+**Master's Student** — Instituto de Ecología, A.C. (INECOL)  
 *Interests:* Mammalogy · Landscape ecology · Macroecology
 
 Investigated how two primate species (family Atelidae) respond to deforestation in tropical forests of southeastern Mexico.
@@ -352,6 +307,51 @@ Investigated how two primate species (family Atelidae) respond to deforestation 
 [✉](mailto:laura.saldivar@posgrado.ecologia.edu.mx)
 
 [View full profile →](personas/laura.html)
+:::
+
+::: {.team-card}
+![](images/equipo/gabriel.jpeg){.team-photo}
+
+### Gabriel Massaine Moulatlet
+**Postdoc**  
+Instituto de Ecología, A.C. (INECOL)  
+*Interests:* Numerical Ecology · Macroecology · Diversity gradients · Environmental Impact Assessments
+
+Biologist with broad interest in tropical ecology, with experience in Amazonian forests and the Andes.
+
+[✉](mailto:mandprogabriel@gmail.com) · [gamamo.netlify.app](https://gamamo.netlify.app/)
+
+[View full profile →](personas/gabriel.html)
+:::
+
+::: {.team-card}
+![](images/equipo/carmen.png){.team-photo}
+
+### Carmen Galán Acedo
+**Visiting Researcher**  
+UNAM-Morelia  
+*Interests:* Landscape ecology · Primatology · Spatial patterns
+
+PhD in Biological Sciences from UNAM. Studies the effects of land-use change on biodiversity, particularly primates at regional and global scales.
+
+[✉](mailto:cgalanac@gmail.com)
+
+[View full profile →](personas/carmen.html)
+:::
+
+::: {.team-card}
+![](images/equipo/juliana.jpeg){.team-photo}
+
+### Juliana Herrera Pérez
+**PhD Student (2026)**  
+Instituto de Ecología, A.C. (INECOL)  
+*Interests:* Ichthyology · Macroecology · Macroevolution
+
+Studies how morphological and ecological traits of freshwater fish species have influenced their diversification globally.
+
+[✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/juliana.html)
 :::
 
 :::

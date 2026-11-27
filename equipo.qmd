@@ -46,36 +46,6 @@ Mastozóologo y científico de la conservación especializado en la ecología y 
 ::: {.team-grid}
 
 ::: {.team-card}
-![](images/equipo/gabriel.jpeg){.team-photo}
-
-### Gabriel Massaine Moulatlet
-**Investigador Posdoctoral**  
-Instituto de Ecología, A.C. (INECOL)  
-*Intereses:* Ecología numérica · Macroecología · Gradientes de diversidad · Evaluaciones de impacto ambiental
-
-Biólogo con amplio interés en ecología tropical, con experiencia en bosques amazónicos y los Andes de Ecuador.
-
-[✉](mailto:mandprogabriel@gmail.com) · [gamamo.netlify.app](https://gamamo.netlify.app/)
-
-[Ver perfil completo →](personas/gabriel.html)
-:::
-
-::: {.team-card}
-![](images/equipo/carmen.png){.team-photo}
-
-### Carmen Galán Acedo
-**Investigadora Visitante**  
-UNAM-Morelia  
-*Intereses:* Ecología del paisaje · Primatología · Patrones espaciales
-
-Doctora en Ciencias Biológicas por la UNAM. Estudia los efectos del cambio de uso de suelo en la biodiversidad, en particular en primates, a escalas regional y global.
-
-[✉](mailto:cgalanac@gmail.com)
-
-[Ver perfil completo →](personas/carmen.html)
-:::
-
-::: {.team-card}
 ![](images/equipo/jessica.jpg){.team-photo}
 
 ### Jessica Falcão
@@ -174,21 +144,6 @@ Estudia la relación entre el nicho Grinnelliano y Eltoniano con los patrones de
 :::
 
 ::: {.team-card}
-![](images/equipo/juliana.jpeg){.team-photo}
-
-### Juliana Herrera Pérez
-**Estudiante de Doctorado**  
-Instituto de Ecología, A.C. (INECOL)  
-*Intereses:* Ictiología · Macroecología · Macroevolución
-
-Estudia cómo los rasgos morfológicos y ecológicos de peces de agua dulce han influido en su diversificación a escala global.
-
-[✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
-
-[Ver perfil completo →](personas/juliana.html)
-:::
-
-::: {.team-card}
 ![](images/equipo/kevin.jpg){.team-photo}
 
 ### Kevin Lopez Reyes
@@ -247,7 +202,7 @@ Estudia los vacíos de conocimiento en los rasgos funcionales de murciélagos y 
 ![](images/equipo/monse.jpg){.team-photo}
 
 ### Monserrat Juárez
-**Estudiante de Maestría**  
+**Maestría (2026)**  
 Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Carnívoros · Impacto antrópico · Macroecología
 
@@ -262,7 +217,7 @@ Evalúa los patrones espaciales de diferentes dimensiones de la diversidad de ca
 ![](images/equipo/egon.jpg){.team-photo}
 
 ### Egon Luis Vilela do Valle
-**Alumni de Doctorado** — Universidade Federal de Goiás, Brasil  
+**Doctorado** — Universidade Federal de Goiás, Brasil  
 *Intereses:* Macroecología · Evolución · Murciélagos · Bioacústica
 
 Estudió el papel de la evolución en el tamaño del rango geográfico, el nicho climático y la capacidad de dispersión en el orden Chiroptera.
@@ -274,7 +229,7 @@ Estudió el papel de la evolución en el tamaño del rango geográfico, el nicho
 ![](images/equipo/juancho.jpg){.team-photo}
 
 ### Juan D. Carvajal-Quintero
-**PhD 2020** — Instituto de Ecología, A.C. (INECOL)  
+**Doctorado (2020)** — Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Sistemas de agua dulce · Peces · Macroecología
 
 Actualmente investigador posdoctoral en iDiv (Alemania). Su tesis abordó los determinantes del rango geográfico en peces de agua dulce.
@@ -288,7 +243,7 @@ Actualmente investigador posdoctoral en iDiv (Alemania). Su tesis abordó los de
 ![](images/equipo/erick.png){.team-photo}
 
 ### Erick J. Corro
-**PhD 2022** — Instituto de Ecología, A.C. (INECOL)  
+**Doctorado (2022)** — Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Interacciones bióticas · Estadística · Patrones espaciales
 
 Actualmente profesor de la Universidad Veracruzana, campus Córdoba.
@@ -302,7 +257,7 @@ Actualmente profesor de la Universidad Veracruzana, campus Córdoba.
 ![](images/equipo/axel.jpg){.team-photo}
 
 ### Axel Arango
-**Alumni de Doctorado** — Instituto de Ecología, A.C. (INECOL)  
+**Doctorado (2023)** — Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Biogeografía · Aves · Macroevolución
 
 Estudió los efectos de las capacidades de dispersión de las familias Emberizoidea del Nuevo Mundo en sus tasas de diversificación.
@@ -316,7 +271,7 @@ Estudió los efectos de las capacidades de dispersión de las familias Emberizoi
 ![](images/equipo/bere.jpg){.team-photo}
 
 ### Ana Berenice García Andrade
-**Alumni de Doctorado** — Instituto de Ecología, A.C. (INECOL)  
+**Doctorado (2022)** — Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Ictiología · Poecílidos · Macroecología · Macroevolución
 
 Estudió los patrones de diversidad de la familia Poeciliidae bajo un enfoque macroecológico y macroevolutivo.
@@ -330,7 +285,7 @@ Estudió los patrones de diversidad de la familia Poeciliidae bajo un enfoque ma
 ![](images/equipo/citlalli.jpg){.team-photo}
 
 ### Citlalli Edith Esparza Estrada
-**Alumni de Doctorado** — Instituto de Ecología, A.C. (INECOL)  
+**Doctorado (2023)** — Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Herpetología · Víboras · Biogeografía · Macroecología
 
 Estudió los patrones macroecológicos y macroevolutivos de la distribución de víboras.
@@ -344,7 +299,7 @@ Estudió los patrones macroecológicos y macroevolutivos de la distribución de 
 ![](images/equipo/laura.jpg){.team-photo}
 
 ### Laura Saldívar Burrola
-**Alumni de Maestría** — Instituto de Ecología, A.C. (INECOL)  
+**Maestría** — Instituto de Ecología, A.C. (INECOL)  
 *Intereses:* Mastozoología · Ecología del paisaje · Macroecología
 
 Investigó cómo dos especies de primates (familia Atelidae) responden a la deforestación en selvas tropicales del sureste de México.
@@ -352,6 +307,51 @@ Investigó cómo dos especies de primates (familia Atelidae) responden a la defo
 [✉](mailto:laura.saldivar@posgrado.ecologia.edu.mx)
 
 [Ver perfil completo →](personas/laura.html)
+:::
+
+::: {.team-card}
+![](images/equipo/gabriel.jpeg){.team-photo}
+
+### Gabriel Massaine Moulatlet
+**Posdoc**  
+Instituto de Ecología, A.C. (INECOL)  
+*Intereses:* Ecología numérica · Macroecología · Gradientes de diversidad · Evaluaciones de impacto ambiental
+
+Biólogo con amplio interés en ecología tropical, con experiencia en bosques amazónicos y los Andes de Ecuador.
+
+[✉](mailto:mandprogabriel@gmail.com) · [gamamo.netlify.app](https://gamamo.netlify.app/)
+
+[Ver perfil completo →](personas/gabriel.html)
+:::
+
+::: {.team-card}
+![](images/equipo/carmen.png){.team-photo}
+
+### Carmen Galán Acedo
+**Investigadora Visitante**  
+UNAM-Morelia  
+*Intereses:* Ecología del paisaje · Primatología · Patrones espaciales
+
+Doctora en Ciencias Biológicas por la UNAM. Estudia los efectos del cambio de uso de suelo en la biodiversidad, en particular en primates, a escalas regional y global.
+
+[✉](mailto:cgalanac@gmail.com)
+
+[Ver perfil completo →](personas/carmen.html)
+:::
+
+::: {.team-card}
+![](images/equipo/juliana.jpeg){.team-photo}
+
+### Juliana Herrera Pérez
+**Doctorado (2026)**  
+Instituto de Ecología, A.C. (INECOL)  
+*Intereses:* Ictiología · Macroecología · Macroevolución
+
+Estudia cómo los rasgos morfológicos y ecológicos de peces de agua dulce han influido en su diversificación a escala global.
+
+[✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/juliana.html)
 :::
 
 :::
