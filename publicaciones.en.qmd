@@ -8,6 +8,10 @@ Lab publications list. Team members' names are highlighted in **bold**.
 
 ### 2026
 
+- [Prioritizing neotropical dry forest under global change: finding the middle ground in biodiversity conservation](https://doi.org/10.1007/s10531-026-03512-8)  
+  A. Manrique-Ascencio, R. Guevara, **Fabricio Villalobos**, J. Nori, D. A. Prieto-Torres
+  *Biodiversity and Conservation* (2026)
+
 - [annotater: Enhancing library load calls in R](https://doi.org/10.48168/innosoft.s30.a370)  
   **Luis D. Verde Arregoitia**, J. C. Rodríguez  
   *Innovación y Software* (2026)
@@ -41,8 +45,7 @@ Lab publications list. Team members' names are highlighted in **bold**.
   *PLoS ONE* (2026)
 
 - [Species range shifts often speed ahead of their modeled climatic niches](https://doi.org/10.1073/pnas.2515903123)  
- Oliveira, B. F., Bertrand, R., Pinsky, M. L., Casajus, N., Wolfe, B. W., Scheffers, B. R., **Villalobos, F.** ... & Comte, L. _Proceedings of the National Academy of
-Sciences_ (2026) 
+ Oliveira, B. F., Bertrand, R., Pinsky, M. L., Casajus, N., Wolfe, B. W., Scheffers, B. R., **Villalobos, F.** ... & Comte, L. _Proceedings of the National Academy of Sciences_ (2026) 
 
 - [Genetic Diversity Impacts Climate‐Induced Species Range Shifts](https://doi.org/10.1111/ele.70345)    
 Oliveira, B. F., Bertrand, R., Comte, L., Lenoir, J., Grenouillet, G., Lancaster, L.
