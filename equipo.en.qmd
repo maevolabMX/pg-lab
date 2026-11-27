@@ -114,21 +114,6 @@ Evolutionary biologist and herpetologist studying biodiversity gradients, with a
 :::
 
 ::: {.team-card}
-![](images/equipo/daniel.jpg){.team-photo}
-
-### Daniel Valencia
-**PhD Student**  
-Instituto de Ecología, A.C. (INECOL)  
-*Interests:* Freshwater fishes · Geographic ranges · Macroecology
-
-Studies large-scale patterns of species distribution and richness, with a focus on Neotropical freshwater fishes.
-
-[✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
-
-[View full profile →](personas/daniel.html)
-:::
-
-::: {.team-card}
 ![](images/equipo/diana.jpeg){.team-photo}
 
 ### Diana M. Ochoa-Sanz
@@ -367,6 +352,21 @@ Studies how morphological and ecological traits of freshwater fish species have 
 [✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
 
 [View full profile →](personas/juliana.html)
+:::
+
+::: {.team-card}
+![](images/equipo/daniel.jpg){.team-photo}
+
+### Daniel Valencia
+**PhD Student (2026)**  
+Instituto de Ecología, A.C. (INECOL)  
+*Interests:* Freshwater fishes · Geographic ranges · Macroecology
+
+Studies large-scale patterns of species distribution and richness, with a focus on Neotropical freshwater fishes.
+
+[✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/daniel.html)
 :::
 
 :::

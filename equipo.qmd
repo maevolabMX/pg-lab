@@ -114,21 +114,6 @@ Estudia los factores ambientales e históricos que moldean los gradientes de bio
 :::
 
 ::: {.team-card}
-![](images/equipo/daniel.jpg){.team-photo}
-
-### Daniel Valencia
-**Estudiante de Doctorado**  
-Instituto de Ecología, A.C. (INECOL)  
-*Intereses:* Peces de agua dulce · Rangos geográficos · Macroecología
-
-Estudia los patrones de distribución y riqueza de especies a gran escala, con énfasis en peces de agua dulce neotropicales.
-
-[✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
-
-[Ver perfil completo →](personas/daniel.html)
-:::
-
-::: {.team-card}
 ![](images/equipo/diana.jpeg){.team-photo}
 
 ### Diana M. Ochoa-Sanz
@@ -367,6 +352,21 @@ Estudia cómo los rasgos morfológicos y ecológicos de peces de agua dulce han 
 [✉](mailto:juliana.herrera@posgrado.ecologia.edu.mx)
 
 [Ver perfil completo →](personas/juliana.html)
+:::
+
+::: {.team-card}
+![](images/equipo/daniel.jpg){.team-photo}
+
+### Daniel Valencia
+**Doctorado (2026)**  
+Instituto de Ecología, A.C. (INECOL)  
+*Intereses:* Peces de agua dulce · Rangos geográficos · Macroecología
+
+Estudia los patrones de distribución y riqueza de especies a gran escala, con énfasis en peces de agua dulce neotropicales.
+
+[✉](mailto:daniel.valencia@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/daniel.html)
 :::
 
 :::
