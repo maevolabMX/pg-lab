@@ -69,6 +69,21 @@ Estudia la estructura filogenética de ensamblajes de plantas exóticas y nativa
 ::: {.team-grid}
 
 ::: {.team-card}
+![](images/equipo/alejo.jpg){.team-photo}
+
+### Alejandro Jaramillo-Uran
+**Estudiante de Maestría**  
+Instituto de Ecología, A.C. (INECOL)  
+*Intereses:* Ecología de comunidades · Ecología numérica · Macroecología · Plantas
+
+Biólogo de la Universidad de Antioquia. Interesado en la ecología de plantas tropicales. Estudia la contribución de las interacciones planta-ave en el mantenimiento de su diversidad a lo largo de gradientes geográficos y ambientales.
+
+[✉](mailto:alejandro.jaramillo@posgrado.ecologia.edu.mx)
+
+[Ver perfil completo →](personas/alejo.html)
+:::
+
+::: {.team-card}
 ![](images/equipo/alex.png){.team-photo}
 
 ### Alejandro Sánchez Barradas

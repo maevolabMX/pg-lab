@@ -69,6 +69,21 @@ Studies the phylogenetic structure of exotic and native plant assemblages in Mex
 ::: {.team-grid}
 
 ::: {.team-card}
+![](images/equipo/alejo.jpg){.team-photo}
+
+### Alejandro Jaramillo-Uran
+**Master's Student**  
+Instituto de Ecología, A.C. (INECOL)  
+*Interests:* Community ecology · Numerical ecology · Macroecology · Plants
+
+Biologist from the Universidad de Antioquia. Interested in the ecology of tropical plants. He studies the contribution of plant-bird interactions to the maintenance of their diversity along geographical and environmental gradients.
+
+[✉](mailto:alejandro.jaramillo@posgrado.ecologia.edu.mx)
+
+[View full profile →](personas/alejo.html)
+:::
+
+::: {.team-card}
 ![](images/equipo/alex.png){.team-photo}
 
 ### Alejandro Sánchez Barradas
